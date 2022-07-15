@@ -4,11 +4,11 @@
 
 Um pouco sobre mim:
 
-- 📚 Tenho formação Técnica em Informática
 - 📚 Estou concluindo o curso superior em Ciência de Dados
-- 📚 Estou me aperfeiçoando mais e mais em programação e outras ferramentas
-- 💼 No momento trabalho como analista de suporte técnico
-- 🖥️ Apaixonado por tecnologia em geral
+- 📚 Tenho formação Técnica em Desenvolvimento de Sistemas
+- 📚 Gosto de me aperfeiçoar mais e mais em programação e outras ferramentas para análise de dados
+- 💼 Atualmente trabalho como analista de suporte técnico
+- 🖥️ Sou apaixonado por tecnologia em geral
 
 
 <div align="center">
