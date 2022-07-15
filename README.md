@@ -2,14 +2,7 @@
 
 ### Seja muito bem vindo(a) ao meu GitHub!
 
-Um pouco sobre mim:
-
-- 📚 Estou concluindo o curso superior em Ciência de Dados
-- 📚 Tenho formação Técnica em Desenvolvimento de Sistemas
-- 📚 Gosto de me aperfeiçoar mais e mais em programação e outras ferramentas para análise de dados
-- 💼 Atualmente trabalho como analista de suporte técnico
-- 🖥️ Sou apaixonado por tecnologia em geral
-
+##
 
 <div align="center">
   <a href="https://github.com/cleisonlima">
@@ -32,10 +25,4 @@ Um pouco sobre mim:
   
 </div>
 
-  ##
  
-<div align="center">
-
-<a href="https://www.linkedin.com/in/cleisonl-it/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
