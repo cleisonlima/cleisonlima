@@ -1,12 +1,10 @@
-# Olá! 👋😊 Eu sou Cleison, tudo bem?
+# Olá!! 👋😊 Eu sou Cleison, tudo bem?
 
-## Bem-vindo ao meu GitHub!
-
-Sou um cientista de dados apaixonado por explorar dados e extrair insights significativos para resolver problemas do mundo real.
+Seja muito bem-vindo(a) ao meu GitHub!
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleisonlima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleisonlima&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleisonlima&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleisonlima&layout=compact&theme=dark&hide_border=true"/>
 </div>
 
 ## Minhas Habilidades
@@ -34,6 +32,7 @@ Vamos conversar sobre Data Science e colaborações! Você pode me encontrar em:
 
 - [LinkedIn](https://www.linkedin.com/in/seuusuario)
 - [Email](mailto:seuemail@example.com)
+
 
 
 # Portifólio Web
