@@ -1,38 +1,28 @@
-# Olá! 👋 Sou o Cleison, um Cientista de Dados em ação!
+### Olá!! 👋😊 Eu sou Cleison, tudo bem?
 
-Bem-vindo(a) ao meu espaço onde compartilho meus projetos e explorações de dados.
+#### Seja muito bem vindo(a) ao meu GitHub!
 
-## Dashboard de Data Science
+
 
 <div align="center">
-  <img src="link_para_imagem_dashboard.png" alt="Dashboard de Data Science">
+  <a href="https://github.com/cleisonlima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleisonlima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleisonlima&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-## Sobre Mim
+##
+<div align="center": style="display: inline_block"><br>
+ <img align="center" alt="Cleison-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Cleison-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg">
+ <img align="center" alt="Cleison-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+ <img align="center" alt="Cleison-Msql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+ <img align="center" alt="Cleison-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Cleison-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Cleison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+</div>
 
-Sou um apaixonado por análise de dados e estatísticas, com ampla experiência em:
-
-- **Linguagens**: Python, R
-- **Bancos de Dados**: PostgreSQL, MySQL
-- **Ferramentas**: Jupyter, RStudio
-
-## Projetos Destacados
-
-Aqui estão alguns dos projetos que tenho trabalhado:
-
-- [Projeto 1: Análise de Mercado](link_para_projeto1)
-- [Projeto 2: Previsão de Vendas](link_para_projeto2)
-
-## Contato
-
-Vamos conectar e discutir ciência de dados, análise estatística e muito mais:
-
-- [LinkedIn](https://www.linkedin.com/in/seuusuario)
-- [Email](mailto:seuemail@example.com)
-
-
-Para acessar esta página basta clicar [aqui](https://cleisonlima.github.io/portifolio_web/index)
-
+##
 
 
  
