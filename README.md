@@ -27,3 +27,12 @@
 Criei meu portifolio utilizando html e css e Bootstrap. Como já tinha algumas formatações, utilzei apenas o necessário para deixar minhas informações e acrescentei outras.
 
 Para acessar esta página basta clicar [aqui](https://cleisonlima.github.io/portifolio_web/index)
+
+## Links úteis:
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+[Comandos Básicos do Git](https://www.hostinger.com.br/tutoriais/comandos-basicos-de-git?ppc_campaign=google_performance_max&gclid=Cj0KCQjwmouZBhDSARIsALYcourrZmEOz3AXc_CCa8NL7dLIn82kzojVaXbszsnDbl1NAdWo3JGf9E8aAp6XEALw_wcB)
+
+[Repositório Curso de Python](https://github.com/guicarvalho/python-os-primeiros-passos)
+
+[Documentação Python](https://docs.python.org/pt-br/3/)
