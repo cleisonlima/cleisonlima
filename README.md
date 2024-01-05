@@ -32,6 +32,13 @@ Estou estudando: <br>
  <img align="center" alt="Cleison-Java" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png">
  <img align="center" alt="Cleison-Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
 
+ #
+
+<img alt="LinkedIn GIF" width="100" height="100" style="border-radius: 50%;" src="https://i.pinimg.com/originals/c1/ca/52/c1ca529d2b995d1f471107aed96bf630.gif">
+
+
+
+
 
  ##
 Acesse:
