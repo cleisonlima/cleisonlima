@@ -58,16 +58,18 @@ Para acessar esta página basta clicar [aqui](https://cleisonlima.github.io/port
 <div align="center": style="display: inline_block"><br>
   
 ## Links úteis:
+
+☕
   
-[Meu repositório principal](https://github.com/cleisonlima/workspacesCodes)
+✔️ [Meu repositório principal](https://github.com/cleisonlima/workspacesCodes)
 
-[Comandos Básicos do Git](https://www.hostinger.com.br/tutoriais/comandos-basicos-de-git?ppc_campaign=google_performance_max&gclid=Cj0KCQjwmouZBhDSARIsALYcourrZmEOz3AXc_CCa8NL7dLIn82kzojVaXbszsnDbl1NAdWo3JGf9E8aAp6XEALw_wcB)
+✔️ [Comandos Básicos do Git](https://www.hostinger.com.br/tutoriais/comandos-basicos-de-git?ppc_campaign=google_performance_max&gclid=Cj0KCQjwmouZBhDSARIsALYcourrZmEOz3AXc_CCa8NL7dLIn82kzojVaXbszsnDbl1NAdWo3JGf9E8aAp6XEALw_wcB)
 
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+✔️ [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-[Documentação Python](https://docs.python.org/pt-br/3/)
+✔️ [Documentação Python](https://docs.python.org/pt-br/3/)
 
-[Repositório Curso de Python](https://github.com/guicarvalho/python-os-primeiros-passos)
+✔️ [Repositório Curso de Python](https://github.com/guicarvalho/python-os-primeiros-passos)
 
 </div>
 
