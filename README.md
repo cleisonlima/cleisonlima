@@ -29,8 +29,8 @@
  
 Estou estudando: <br>
 
- <img align="center" alt="Cleison-Java" height="30" width="40" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png">
- <img align="center" alt="Cleison-Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
+ <img align="center" alt="Cleison-Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-14.svg">
+ <img align="center" alt="Angular" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
 
  #
 
