@@ -63,6 +63,10 @@ Para acessar esta página basta clicar [aqui](https://cleisonlima.github.io/port
   
 ✔️ [Meu repositório principal](https://github.com/cleisonlima/workspacesCodes)
 
+✔️ [Plataforma para programar online](https://replit.com/~)
+
+✔️ [Google colab](https://colab.google/)
+
 ✔️ [Comandos Básicos do Git](https://www.hostinger.com.br/tutoriais/comandos-basicos-de-git?ppc_campaign=google_performance_max&gclid=Cj0KCQjwmouZBhDSARIsALYcourrZmEOz3AXc_CCa8NL7dLIn82kzojVaXbszsnDbl1NAdWo3JGf9E8aAp6XEALw_wcB)
 
 ✔️ [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
