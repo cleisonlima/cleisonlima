@@ -54,7 +54,7 @@ Acesse:
  # Portifólio Web
 Criei meu portifolio utilizando html e css e Bootstrap.
 
-Para acessar esta página basta clicar [aqui](https://cleisonlima.github.io/portifolio_web/index)
+ Clique [aqui](https://cleisonlima.github.io/portifolio_web/index)
 
 </div>
 
