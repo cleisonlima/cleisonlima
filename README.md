@@ -52,7 +52,7 @@ Acesse:
 
 ##
  # Portifólio Web
-Criei meu portifolio utilizando html e css e Bootstrap.
+Criei meu portifolio utilizando HTML e CSS Java Script e Bootstrap.
 
  Clique [aqui](https://cleisonlima.github.io/portifolio_web/index)
 
