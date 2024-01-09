@@ -24,9 +24,9 @@
  <img align="center" alt="Cleison-R" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg">
  <img align="center" alt="Cleison-Postgresql" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
  <img align="center" alt="Cleison-Msql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
- <img align="center" alt="Cleison-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Cleison-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Cleison-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Cleison-Js" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
  <img align="center" alt="Cleison-Nodjs" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
  <img align="center" alt="Cleison-ChatGPT" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/chatgpt-4.svg">
  <img align="center" alt="Cleison-GitHub" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg">
