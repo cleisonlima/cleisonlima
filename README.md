@@ -13,12 +13,9 @@
 #
 <div align="center": style="display: inline_block">
   
-  Minhas principais teconologias: <br>
+  Minhas principais teconologias: 
 
-
-
-
- <br><br><br>
+ <br>
   
  <img align="center" alt="Cleison-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Cleison-R" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg">
@@ -33,17 +30,16 @@
  <img align="center" alt="Cleison-Git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
  <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg">
  <img align="center" alt="Teams" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg">
- <br><br><br>
-
+ <br>
 
  #
  
-Estou estudando: <br>
-  <br><br><br>
+Estou estudando: 
 
+ <br>
  <img align="center" alt="Cleison-Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-14.svg">
  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
- <br><br><br>
+ <br>
 
  #
 
