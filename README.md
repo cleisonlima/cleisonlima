@@ -52,7 +52,7 @@ Estou estudando:
  ##
 Acesse:
 
-[<img alt="Cleison-Linkedin" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg">](https://www.linkedin.com/in/cleisonl-it/)
+[<img alt="Cleison-Linkedin" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg">](https://www.linkedin.com/in/cleisonl-it/)
 
 
 </div>
