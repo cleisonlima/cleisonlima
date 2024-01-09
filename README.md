@@ -14,23 +14,32 @@
 <div align="center": style="display: inline_block">
   
   Minhas principais teconologias: <br>
+
+
+
+
   
- <img align="center" alt="Cleison-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="Cleison-R" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg">
- <img align="center" alt="Cleison-Postgresql" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
- <img align="center" alt="Cleison-Msql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
- <img align="center" alt="Cleison-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Cleison-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Cleison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg">
- <img align="center" alt="Teams" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg">
+  
+ <img align="center" alt="Cleison-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Cleison-R" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/r-lang.svg">
+ <img align="center" alt="Cleison-Postgresql" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg">
+ <img align="center" alt="Cleison-Msql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+ <img align="center" alt="Cleison-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Cleison-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Cleison-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="Cleison-Nodjs" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+ <img align="center" alt="Cleison-ChatGPT" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/chatgpt-4.svg">
+ <img align="center" alt="Cleison-GitHub" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg">
+ <img align="center" alt="Cleison-Git" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
+ <img align="center" alt="Photoshop" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg">
+ <img align="center" alt="Teams" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg">
 
  #
  
 Estou estudando: <br>
 
- <img align="center" alt="Cleison-Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-14.svg">
- <img align="center" alt="Angular" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
+ <img align="center" alt="Cleison-Java" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/java-14.svg">
+ <img align="center" alt="Angular" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg">
 
  #
 
@@ -43,7 +52,7 @@ Estou estudando: <br>
  ##
 Acesse:
 
-[<img alt="Cleison-CSS" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg">](https://www.linkedin.com/in/cleisonl-it/)
+[<img alt="Cleison-Linkedin" height="50" width="60" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg">](https://www.linkedin.com/in/cleisonl-it/)
 
 
 </div>
@@ -84,6 +93,8 @@ Criei meu portifolio utilizando HTML e CSS Java Script e Bootstrap.
 #
 
 ![Alt Text](https://i.pinimg.com/originals/c6/33/c2/c633c20ede82f0e0ced7d570dbe3a1f3.gif)
+
+
 
 
 
