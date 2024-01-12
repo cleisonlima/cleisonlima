@@ -30,6 +30,8 @@
  <img align="center" alt="Cleison-Git" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
  <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg">
  <img align="center" alt="Teams" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg">
+ <img align="center" alt="Teams" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg">
+ 
  <br>
 
  #
