@@ -90,6 +90,12 @@ Criei meu portifolio utilizando HTML e CSS Java Script e Bootstrap.
 
 ✔️ [Repositório Curso de Python](https://github.com/guicarvalho/python-os-primeiros-passos)
 
+✔️ [Download e Instalação automática de programas](https://ninite.com/)
+
+✔️ [Distribuições Linux](https://www.vivaolinux.com.br/download-linux/#google_vignette)
+
+
+
 </div>
 
 #
