@@ -31,6 +31,8 @@
  <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg">
  <img align="center" alt="Teams" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg">
  <img align="center" alt="Teams" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg">
+
+ Tenho conhecimentos em Tecnologias para Back-end e Front-end e também em Análise de Dados. Estou estando engenharia de Software para unir todo esses conhecimentos.
  
  <br>
 
