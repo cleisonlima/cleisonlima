@@ -36,7 +36,9 @@
 
 <br>
 
- Tenho conhecimentos em Tecnologias para Back-end e Front-end e também em Análise de Dados. Estou estando engenharia de Software para unir todo esses conhecimentos.
+ Tenho conhecimentos em Tecnologias para Back-end e Front-end e também em Análise de Dados. 
+ 
+ Estou estando engenharia de Software para unir todos esses conhecimentos.
  
 </br>
  
