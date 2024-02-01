@@ -32,7 +32,11 @@
  <img align="center" alt="Teams" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg">
  <img align="center" alt="Teams" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg">
 
+ 
+
  </br>
+ 
+
 
 <br>
 
@@ -42,7 +46,7 @@
  
 </br>
  
-
+<img alt="LinkedIn GIF" width="100" height="100" style="border-radius: 50%;" src="https://gaymeover.com.br/wp-content/uploads/2016/12/Super-Mario-World-voando.gif">
 
  #
  
