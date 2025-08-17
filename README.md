@@ -1,10 +1,13 @@
 <!-- Top Venom Wave Banner sem fundo de texto -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&textBg=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ol%C3%A1!!&fontSize=40&textBg=false"/>
+
+
 
 <div align="center">
   <!-- Typing SVG animado -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=28&pause=1000&color=2BF7EE&center=true&width=600&lines=Olá,+meu+nome+é+Cleison+Lima!+%F0%9F%91%8B;+Especialista+em+IA,+Neurociência,+Robótica+e+Sistemas+%F0%9F%92%BB;+Bem-vindo+ao+meu+GitHub!+%F0%9F%91%BE" alt="Typing SVG"/>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=28&pause=1000&color=2BF7EE&center=true&width=600&lines=Seja+bem-vindo+ao+meu+GitHub!" alt="Typing SVG"/>
+
+
 
 <hr>
 
@@ -84,4 +87,6 @@ Acredito no poder da tecnologia para elevar a educação, criar impacto real e c
 </p>
 
 <!-- Bottom Venom Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&textBg=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=%3B)&textBg=false"/>
+
+
