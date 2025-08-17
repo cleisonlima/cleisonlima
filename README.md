@@ -86,7 +86,6 @@ Acredito no poder da tecnologia para elevar a educação, criar impacto real e c
 "Inteligência Artificial não substitui humanos, mas amplifica nossa capacidade de criar, inovar e transformar o mundo." 🤖💡
 </p>
 
-<!-- Bottom Venom Wave Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=%3B)&textBg=false"/>
+
 
 
