@@ -1,15 +1,14 @@
 <!-- Top Venom Wave Banner sem fundo de texto -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ol%C3%A1!!&fontSize=40&textBg=false"/>
 
-
-
 <div align="center">
   <!-- Typing SVG animado -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=28&pause=1000&color=2BF7EE&center=true&width=600&lines=Seja+bem-vindo+ao+meu+GitHub!" alt="Typing SVG"/>
-
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=28&pause=1000&color=2BF7EE&center=true&width=600&lines=Seja+bem-vindo+ao+meu+GitHub!" alt="Typing SVG"/>
+</div>
 
 <hr>
+
+
 
 <h2 align="center">👨‍💻 Sobre mim</h2>
 <p align="center">
@@ -23,18 +22,13 @@ Meu objetivo é transformar ideias em soluções tecnológicas concretas que con
 
 <h2 align="center">💡 Tecnologias e Habilidades</h2>
 <div align="center">
-  <!-- Linguagens e bibliotecas Data Science -->
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="R" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />
   <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Pandas" height="40" width="50" src="https://img.icons8.com/color/48/000000/pandas.png"/>
   <img align="center" alt="Matplotlib" height="40" width="50" src="https://img.icons8.com/color/48/000000/matplotlib.png"/>
   <img align="center" alt="NumPy" height="40" width="50" src="https://img.icons8.com/color/48/000000/numpy.png"/>
-  
-  <!-- Linguagem para Robótica -->
   <img align="center" alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-
-  <!-- Tecnologias de Desenvolvimento de Software -->
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
@@ -49,12 +43,12 @@ Meu objetivo é transformar ideias em soluções tecnológicas concretas que con
 <hr>
 
 <h2 align="center">🏆 Certificações & Destaques</h2>
-<div align="center">
+
 - Pós-graduação em Neurociências e Neurotecnologia  
 - Especialização em Desenvolvimento Full Stack  
 - MBA em Gestão e Docência no Ensino Médio e Superior  
 - Graduação em Ciência de Dados
-</div>
+
 
 <hr>
 
@@ -69,17 +63,49 @@ Meu objetivo é transformar ideias em soluções tecnológicas concretas que con
 <hr>
 
 <h2 align="center">📫 Contato</h2>
-<p align="center">
+
 🔗 <a href="https://www.linkedin.com/in/cleisonl-it">LinkedIn</a> <br>
 🔗 <a href="https://github.com/cleisonlima">GitHub</a> <br>
 🔗 <a href="https://www.dio.me/users/cleisonl_it">DIO Portfolio</a><br>
-🔗 <a href=https://cleisonlima.github.io/site/>Meu Site</a><br>
-  
+🔗 <a href="https://cleisonlima.github.io/site/">Meu Site</a><br>
 </p>
+
+## 🌐 Sites Importantes para Desenvolvimento e Dados
+
+### Hospedagem e Deploy
+- [Netlify](https://app.netlify.com/) – Hospedagem gratuita para sites estáticos e apps JS modernos  
+- [GitHub Pages](https://pages.github.com/) – Hospedagem gratuita diretamente de repositórios GitHub  
+- [Vercel](https://vercel.com/) – Hospedagem e deploy contínuo para projetos JS e frameworks modernos  
+- [Render](https://render.com/) – Hospedagem gratuita para sites estáticos e apps simples  
+- [Surge](https://surge.sh/) – Deploy rápido de sites estáticos via CLI  
+
+### Aprendizado e Competição de Dados
+- [Kaggle](https://www.kaggle.com/) – Competições de Data Science, datasets e notebooks Python/R  
+- [DataCamp](https://www.datacamp.com/) – Cursos online focados em análise de dados e Python/R  
+- [Coursera](https://www.coursera.org/) – Cursos de TI, ciência de dados e desenvolvimento web  
+- [edX](https://www.edx.org/) – Cursos gratuitos e pagos de universidades renomadas  
+
+### Ferramentas e Automação
+- [Ninite](https://ninite.com/) – Instalador automático de softwares para Windows  
+- [Stack Overflow](https://stackoverflow.com/) – Perguntas e respostas de programação  
+- [JSFiddle](https://jsfiddle.net/) – Testar e compartilhar código HTML/CSS/JS online  
+- [CodePen](https://codepen.io/) – Sandbox para front-end e prototipagem rápida  
+- [Replit](https://replit.com/) – Ambiente online para programar em várias linguagens  
+
+### Recursos de Programação e Documentação
+- [MDN Web Docs](https://developer.mozilla.org/) – Documentação oficial de HTML, CSS e JavaScript  
+- [W3Schools](https://www.w3schools.com/) – Tutoriais rápidos de web e programação  
+- [Python.org](https://www.python.org/) – Documentação oficial do Python  
+- [Node.js](https://nodejs.org/) – Site oficial do Node.js  
+
+### Controle de Versionamento e Colaboração
+- [GitHub](https://github.com/) – Repositórios, versionamento e colaboração  
+- [GitLab](https://gitlab.com/) – Alternativa ao GitHub com CI/CD integrado  
+- [Bitbucket](https://bitbucket.org/) – Repositórios privados grátis para pequenas equipes  
 
 <hr>
 
-<h2 align="center">⚡ </h2>
+<h2 align="center">⚡ Filosofia</h2>
 <p align="center">
 Com minha experiência em Inteligência Artificial, Neurociência, Robótica e Desenvolvimento de Sistemas, busco transformar desafios complexos em soluções inovadoras e impactantes. <br>
 Acredito no poder da tecnologia para elevar a educação, criar impacto real e construir o futuro que desejamos.
@@ -87,7 +113,3 @@ Acredito no poder da tecnologia para elevar a educação, criar impacto real e c
 <p align="center">
 "Inteligência Artificial não substitui humanos, mas amplifica nossa capacidade de criar, inovar e transformar o mundo." 🤖💡
 </p>
-
-
-
-
