@@ -72,14 +72,14 @@ Meu objetivo é transformar ideias em soluções tecnológicas concretas que con
 <p align="center">
 🔗 <a href="https://www.linkedin.com/in/cleisonl-it">LinkedIn</a> <br>
 🔗 <a href="https://github.com/cleisonlima">GitHub</a> <br>
-🔗 <a href="https://www.dio.me/users/cleisonl_it">DIO Portfolio</a>
-🔗 <a href=https://cleisonlima.github.io/site/>Meu Siteo</a>
+🔗 <a href="https://www.dio.me/users/cleisonl_it">DIO Portfolio</a><br>
+🔗 <a href=https://cleisonlima.github.io/site/>Meu Siteo</a><br>
   
 </p>
 
 <hr>
 
-<h2 align="center">⚡ Mensagem Final</h2>
+<h2 align="center">⚡ </h2>
 <p align="center">
 Com minha experiência em Inteligência Artificial, Neurociência, Robótica e Desenvolvimento de Sistemas, busco transformar desafios complexos em soluções inovadoras e impactantes. <br>
 Acredito no poder da tecnologia para elevar a educação, criar impacto real e construir o futuro que desejamos.
