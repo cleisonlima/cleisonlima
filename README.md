@@ -73,7 +73,7 @@ Meu objetivo é transformar ideias em soluções tecnológicas concretas que con
 🔗 <a href="https://www.linkedin.com/in/cleisonl-it">LinkedIn</a> <br>
 🔗 <a href="https://github.com/cleisonlima">GitHub</a> <br>
 🔗 <a href="https://www.dio.me/users/cleisonl_it">DIO Portfolio</a><br>
-🔗 <a href=https://cleisonlima.github.io/site/>Meu Siteo</a><br>
+🔗 <a href=https://cleisonlima.github.io/site/>Meu Site</a><br>
   
 </p>
 
