@@ -29,8 +29,6 @@
 - **Repositório**: [https://github.com/cleisonlima/SenhaPeba](https://github.com/cleisonlima/Senha_Peba)
 
 
-
-
 <h2 align="center">👨‍💻 Sobre mim</h2>
 <p align="center">
 Sou Cleison Lima, especialista em Inteligência Artificial, Neurociência, Robótica e Desenvolvimento de Sistemas. <br>
