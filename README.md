@@ -8,7 +8,7 @@
 
 <hr>
 
-# Aplicativos feitos por mim
+<h2 align="center"># Aplicativos feitos por mim</h2>
 
 ## LinkZin
 - **Descrição**: Aplicativo simples para encurtar URLs de forma rápida e prática.
