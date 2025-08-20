@@ -8,6 +8,17 @@
 
 <hr>
 
+# Aplicativos feitos por mim
+
+## LinkZin
+- **Descrição**: Aplicativo simples para encurtar URLs de forma rápida e prática.
+- **Funcionalidades**:
+  - Encurtar links utilizando a API do TinyURL.
+  - Copiar o link encurtado para a área de transferência com um clique.
+  - Interface amigável com design moderno.
+- **Tecnologias**: Python, Tkinter
+- **Repositório**: [https://github.com/cleisonlima/LinkZin](https://github.com/cleisonlima/LinkZin)
+
 
 
 <h2 align="center">👨‍💻 Sobre mim</h2>
