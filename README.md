@@ -28,6 +28,18 @@
 - **Tecnologias**: Python, Tkinter
 - **Repositório**: [https://github.com/cleisonlima/SenhaPeba](https://github.com/cleisonlima/Senha_Peba)
 
+  ## Bufunfa
+- **Descrição**: Aplicativo simples para registrar e controlar suas despesas de forma prática e rápida.
+- **Funcionalidades**:
+  - Adicionar despesas com descrição e valor.
+  - Visualizar o total gasto instantaneamente.
+  - Remover despesas indesejadas com um clique.
+  - Salvar todas as despesas em arquivo TXT para consulta posterior.
+  - Interface moderna, minimalista e elegante.
+- **Tecnologias**: Python, Tkinter
+- **Repositório**: [https://github.com/cleisonlima/Bufunfa](https://github.com/cleisonlima/Bufunfa)
+
+
 
 <h2 align="center">👨‍💻 Sobre mim</h2>
 <p align="center">
