@@ -19,6 +19,16 @@
 - **Tecnologias**: Python, Tkinter
 - **Repositório**: [https://github.com/cleisonlima/LinkZin](https://github.com/cleisonlima/LinkZin)
 
+  ## Senha Peba
+- **Descrição**: Gerador de senhas simples, rápido e divertido, ideal para criar senhas seguras sem complicação.
+- **Funcionalidades**:
+  - Gera senhas instantâneas com letras, números e símbolos.
+  - Copiar a senha gerada para a área de transferência com um clique.
+  - Interface divertida e minimalista.
+- **Tecnologias**: Python, Tkinter
+- **Repositório**: [https://github.com/cleisonlima/SenhaPeba](https://github.com/cleisonlima/Senha_Peba)
+
+
 
 
 <h2 align="center">👨‍💻 Sobre mim</h2>
