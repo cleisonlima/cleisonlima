@@ -101,7 +101,7 @@ Meu objetivo é transformar ideias em soluções tecnológicas concretas que con
 🔗 <a href="https://cleisonlima.github.io/site/">Meu Site</a><br>
 </p>
 
-## 🌐 Sites Importantes para Desenvolvimento e Dados
+## <h2 align="center">🌐 Sites Importantes para Desenvolvimento e Dados</h2>
 
 ### Hospedagem e Deploy
 - [Netlify](https://app.netlify.com/) – Hospedagem gratuita para sites estáticos e apps JS modernos  
