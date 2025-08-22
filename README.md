@@ -39,6 +39,17 @@
 - **Tecnologias**: Python, Tkinter
 - **Repositório**: [https://github.com/cleisonlima/Bufunfa](https://github.com/cleisonlima/Bufunfa)
 
+  ## QRretado!
+- **Descrição**: Aplicativo simples para gerar QR Codes a partir de qualquer texto ou link, de forma rápida e prática.
+- **Funcionalidades**:
+  - Gerar QR Code de textos ou links.
+  - Visualizar o QR Code diretamente no aplicativo.
+  - Salvar QR Code em formato `.png` para compartilhar ou guardar.
+  - Interface leve, amigável e inspirada na cultura nordestina 🌵.
+- **Tecnologias**: Python
+- **Repositório**: [https://github.com/cleisonlima/qrretado](https://github.com/cleisonlima/qrretado)
+
+
 
 
 <h2 align="center">👨‍💻 Sobre mim</h2>
