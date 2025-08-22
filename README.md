@@ -8,9 +8,9 @@
 
 <hr>
 
-<h2 align="center"># Aplicativos feitos por mim</h2>
+<h2 align="center"> Aplicativos feitos por mim</h2>
 
-## LinkZin
+  ## LinkZin
 - **Descrição**: Aplicativo simples para encurtar URLs de forma rápida e prática.
 - **Funcionalidades**:
   - Encurtar links utilizando a API do TinyURL.
@@ -43,7 +43,7 @@
 
 <h2 align="center">👨‍💻 Sobre mim</h2>
 
-  Sou Cleison Lima, especialista em Inteligência Artificial, Neurociência, Robótica e Desenvolvimento de Sistemas. <br>
+  -Sou Cleison Lima, especialista em Inteligência Artificial, Neurociência, Robótica e Desenvolvimento de Sistemas. <br>
 Minha experiência une ciência, tecnologia e inovação para criar soluções inteligentes, automatizar processos e integrar sistemas complexos. <br>
 Trabalho com modelagem de IA, análise avançada de dados, automação, robótica aplicada e desenvolvimento de sistemas, sempre com foco em inovação, aprendizado e impacto. <br>
 Meu objetivo é transformar ideias em soluções tecnológicas concretas que conectem ciência, educação e indústria, potencializando resultados e experiências.
