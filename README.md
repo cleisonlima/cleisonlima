@@ -45,7 +45,6 @@
   - Gerar QR Code de textos ou links.
   - Visualizar o QR Code diretamente no aplicativo.
   - Salvar QR Code em formato `.png` para compartilhar ou guardar.
-  - Interface leve, amigável e inspirada na cultura nordestina 🌵.
 - **Tecnologias**: Python
 - **Repositório**: [https://github.com/cleisonlima/qrretado](https://github.com/cleisonlima/qrretado)
 
