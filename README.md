@@ -10,6 +10,17 @@
 
 <h2 align="center"> Aplicativos feitos por mim</h2>
 
+## Foto Massa
+- **Descrição**: Aplicativo simples para converter imagens de forma rápida e intuitiva.  
+- **Funcionalidades**:  
+  - Abrir imagens nos formatos `.png`, `.jpg`, `.jpeg`, `.bmp`, `.gif` e `.ico`.  
+  - Converter imagens facilmente para outros formatos.  
+  - Salvar a imagem no formato escolhido.  
+  - Interface simples e amigável.  
+- **Tecnologias**: Python, Tkinter, Pillow (PIL)  
+- **Repositório**: [https://github.com/cleisonlima/fotomassa](https://github.com/cleisonlima/fotomassa)  
+
+
   ## LinkZin
 - **Descrição**: Aplicativo simples para encurtar URLs de forma rápida e prática.
 - **Funcionalidades**:
