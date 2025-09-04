@@ -112,7 +112,7 @@ Meu objetivo é transformar ideias em soluções tecnológicas concretas que con
   <!-- Firebase, AWS e Google Colab corrigidos -->
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" title="Firebase"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" title="AWS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Colaboratory_SVG_Logo.svg" height="40" title="Google Colab"/>
+  <img src="https://www.svgrepo.com/svg/349325/colaboratory" height="40" title="Google Colab"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" title="Terraform"/>
