@@ -101,18 +101,21 @@ Meu objetivo é transformar ideias em soluções tecnológicas concretas que con
 
   <!-- Controle de Versão & Ferramentas -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" title="Git"/>
-  <img src="https://www.svgrepo.com/show/331724/github-code-source.svg" height="40" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" title="GitHub"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" title="NodeJS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" title="Docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" title="VS Code"/>
   <img src="https://img.icons8.com/color/48/000000/postman.png" height="40" title="Postman"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/>
-  <img src="https://www.svgrepo.com/show/353657/firebase.svg" height="40" title="Firebase"/>
+  
+  <!-- Firebase, AWS e Google Colab corrigidos -->
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" title="Firebase"/>
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" title="AWS"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Colaboratory_SVG_Logo.svg" height="40" title="Google Colab"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" title="Terraform"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40" title="AWS"/>
-  <img src="https://www.svgrepo.com/svg/373810/google-colab" height="40" title="Google Colab"/>
 </div>
 
 <h2 align="center">🏆 Certificações & Destaques</h2>
