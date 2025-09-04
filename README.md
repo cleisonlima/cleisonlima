@@ -72,50 +72,40 @@ Meu objetivo é transformar ideias em soluções tecnológicas concretas que con
 
 <hr>
 
-<h2 align="center">💡 Tecnologias e Habilidades</h2>
+## 💡 Tecnologias e Habilidades
 
-<div style="display:flex; justify-content:center; flex-wrap: wrap; gap:20px; align-items:center; text-align:center;">
-  <!-- Linguagens -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" title="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" title="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="40" title="R"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" title="SQL"/>
+### Linguagens
+| Python | JavaScript | Java | C++ | TypeScript | R | MySQL |
+|--------|------------|------|-----|------------|---|-------|
+| ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg) | ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) | ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) | ![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg) | ![R](https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg) | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) |
 
-  <!-- Bibliotecas -->
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" height="40" title="Pandas"/>
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" height="40" title="NumPy"/>
-  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" height="40" title="Matplotlib"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="40" title="Jupyter Notebook"/>
+---
 
-  <!-- Frameworks & Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" title="React Native"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="40" title="Angular"/>
-  <img src="https://vitejs.dev/logo.svg" height="40" title="Vite"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" title="CSS3"/>
+### Bibliotecas
+| Pandas | NumPy | Matplotlib | Jupyter |
+|--------|-------|------------|---------|
+| ![Pandas](https://img.icons8.com/color/48/000000/pandas.png) | ![NumPy](https://img.icons8.com/color/48/000000/numpy.png) | ![Matplotlib](https://img.icons8.com/color/48/000000/matplotlib.png) | ![Jupyter](https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg) |
 
-  <!-- Controle de Versão & Ferramentas -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" title="NodeJS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" title="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" title="VS Code"/>
-  <img src="https://img.icons8.com/color/48/000000/postman.png" height="40" title="Postman"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/>
-  
-  <!-- Firebase, AWS e Google Colab corrigidos -->
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" title="Firebase"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40" title="AWS"/>
+---
 
-  <!-- Outros -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" title="Terraform"/>
-</div>
+### Frameworks & Frontend
+| React | React Native | Angular | Vite | Bootstrap | HTML5 | CSS3 |
+|-------|--------------|---------|------|-----------|-------|------|
+| ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) | ![React Native](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg) | ![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg) | ![Vite](https://vitejs.dev/logo.svg) | ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg) | ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) | ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) |
+
+---
+
+### Ferramentas & Versionamento
+| Git | NodeJS | Docker | Kubernetes | VS Code | Postman | MongoDB |
+|-----|--------|--------|------------|---------|---------|---------|
+| ![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) | ![NodeJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg) | ![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg) | ![Kubernetes](https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg) | ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg) | ![Postman](https://img.icons8.com/color/48/000000/postman.png) | ![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg) |
+
+---
+
+### Outros
+| Firebase | AWS | Google Colab | Linux | Terraform |
+|----------|-----|--------------|-------|-----------|
+| ![Firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg) | ![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg) | ![Google Colab](https://www.svgrepo.com/show/349325/colaboratory.svg) | ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) | ![Terraform](https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg) |
 
 <h2 align="center">🏆 Certificações & Destaques</h2>
 
