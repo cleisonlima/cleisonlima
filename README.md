@@ -73,28 +73,45 @@ Meu objetivo é transformar ideias em soluções tecnológicas concretas que con
 <hr>
 
 <h2 align="center">💡 Tecnologias e Habilidades</h2>
-<div align="center">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="center" alt="R" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />
-  <img align="center" alt="SQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Pandas" height="40" width="50" src="https://img.icons8.com/color/48/000000/pandas.png"/>
-  <img align="center" alt="Matplotlib" height="40" width="50" src="https://img.icons8.com/color/48/000000/matplotlib.png"/>
-  <img align="center" alt="NumPy" height="40" width="50" src="https://img.icons8.com/color/48/000000/numpy.png"/>
-  <img align="center" alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center" alt="React Native" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center" alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"/>
-  <img align="center" alt="Vite" height="40" width="50" src="https://vitejs.dev/logo.svg"/>
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"/>
-  <img align="center" alt="NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>
-  <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-  <!-- Ícone do GitHub atualizado -->
-  <img align="center" alt="GitHub" height="40" width="50" src="https://www.svgrepo.com/show/331724/github-code-source.svg"/>
-  <img align="center" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>
-  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+
+<!-- Linguagens de Programação -->
+<h3 align="center">💻 Linguagens</h3>
+<div style="display:flex; justify-content:center; gap:15px; flex-wrap: wrap; margin-bottom:20px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" />
+</div>
+
+<!-- Bibliotecas e Ferramentas de Dados -->
+<h3 align="center">📊 Bibliotecas & Ferramentas de Dados</h3>
+<div style="display:flex; justify-content:center; gap:15px; flex-wrap: wrap; margin-bottom:20px;">
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" height="40" />
+</div>
+
+<!-- Frameworks & Frontend -->
+<h3 align="center">⚡ Frameworks & Frontend</h3>
+<div style="display:flex; justify-content:center; gap:15px; flex-wrap: wrap; margin-bottom:20px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="40" />
+  <img src="https://vitejs.dev/logo.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" />
+</div>
+
+<!-- Controle de Versão e Ferramentas -->
+<h3 align="center">🔧 Controle de Versão & Ferramentas</h3>
+<div style="display:flex; justify-content:center; gap:15px; flex-wrap: wrap; margin-bottom:20px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" />
+  <img src="https://www.svgrepo.com/show/331724/github-code-source.svg" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" />
 </div>
 
 <hr>
