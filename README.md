@@ -96,7 +96,7 @@ Meu objetivo é transformar ideias em soluções tecnológicas concretas que con
 ---
 
 ### Ferramentas & Versionamento
-| Git | NodeJS | Docker | Kubernetes | VS Code | Postman | MongoDB |
+| Git &emsp;| NodeJS | Docker | Kubernetes | VS Code | Postman | MongoDB |
 |:---:|:------:|:------:|:----------:|:-------:|:-------:|:-------:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40"/> | <img src="https://img.icons8.com/color/48/000000/postman.png" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40"/> |
 
