@@ -50,7 +50,7 @@ Trabalho com **modelagem de IA, análise avançada de dados, automação, robót
 ### Bibliotecas e Frameworks de IA e Dados
 | NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | TensorFlow | PyTorch |
 |:-----:|:-----:|:----------:|:------:|:------------:|:----------:|:-------:|
-| <img src="https://img.icons8.com/color/48/000000/numpy.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/pandas.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="40"/> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40"/> | <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40"/> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/> |
+| <img src="https://img.icons8.com/color/48/000000/numpy.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/pandas.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="40"/> | <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" width="40"/> | <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40"/> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/> |
 
 ### Frontend & Desenvolvimento Web
 | React | React Native | Angular | HTML5 | CSS3 | Bootstrap | Tailwind |
