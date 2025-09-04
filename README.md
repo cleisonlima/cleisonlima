@@ -88,6 +88,7 @@ Meu objetivo é transformar ideias em soluções tecnológicas concretas que con
   <img src="https://img.icons8.com/color/48/000000/pandas.png" height="40" title="Pandas"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" height="40" title="NumPy"/>
   <img src="https://img.icons8.com/color/48/000000/matplotlib.png" height="40" title="Matplotlib"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="40" title="Jupyter Notebook"/>
 
   <!-- Frameworks & Frontend -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" title="React"/>
@@ -98,12 +99,20 @@ Meu objetivo é transformar ideias em soluções tecnológicas concretas que con
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" title="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" title="CSS3"/>
 
-  <!-- Ferramentas -->
+  <!-- Controle de Versão & Ferramentas -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" title="Git"/>
   <img src="https://www.svgrepo.com/show/331724/github-code-source.svg" height="40" title="GitHub"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" title="NodeJS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40" title="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" title="VS Code"/>
+  <img src="https://img.icons8.com/color/48/000000/postman.png" height="40" title="Postman"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/>
+  <img src="https://www.svgrepo.com/show/353657/firebase.svg" height="40" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" title="Terraform"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40" title="AWS"/>
 </div>
-
 <hr>
 
 <h2 align="center">🏆 Certificações & Destaques</h2>
