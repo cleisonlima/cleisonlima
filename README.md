@@ -74,44 +74,34 @@ Meu objetivo é transformar ideias em soluções tecnológicas concretas que con
 
 <h2 align="center">💡 Tecnologias e Habilidades</h2>
 
-<!-- Linguagens de Programação -->
-<h3 align="center">💻 Linguagens</h3>
-<div style="display:flex; justify-content:center; gap:15px; flex-wrap: wrap; margin-bottom:20px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" />
-</div>
+<div style="display:flex; justify-content:center; flex-wrap: wrap; gap:20px; align-items:center; text-align:center;">
+  <!-- Linguagens -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" title="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" title="TypeScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="40" title="R"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40" title="SQL"/>
 
-<!-- Bibliotecas e Ferramentas de Dados -->
-<h3 align="center">📊 Bibliotecas & Ferramentas de Dados</h3>
-<div style="display:flex; justify-content:center; gap:15px; flex-wrap: wrap; margin-bottom:20px;">
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" height="40" />
-</div>
+  <!-- Bibliotecas -->
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" height="40" title="Pandas"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" height="40" title="NumPy"/>
+  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" height="40" title="Matplotlib"/>
 
-<!-- Frameworks & Frontend -->
-<h3 align="center">⚡ Frameworks & Frontend</h3>
-<div style="display:flex; justify-content:center; gap:15px; flex-wrap: wrap; margin-bottom:20px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="40" />
-  <img src="https://vitejs.dev/logo.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" />
-</div>
+  <!-- Frameworks & Frontend -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" title="React Native"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="40" title="Angular"/>
+  <img src="https://vitejs.dev/logo.svg" height="40" title="Vite"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" title="CSS3"/>
 
-<!-- Controle de Versão e Ferramentas -->
-<h3 align="center">🔧 Controle de Versão & Ferramentas</h3>
-<div style="display:flex; justify-content:center; gap:15px; flex-wrap: wrap; margin-bottom:20px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" />
-  <img src="https://www.svgrepo.com/show/331724/github-code-source.svg" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" />
+  <!-- Ferramentas -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" title="Git"/>
+  <img src="https://www.svgrepo.com/show/331724/github-code-source.svg" height="40" title="GitHub"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40" title="NodeJS"/>
 </div>
 
 <hr>
