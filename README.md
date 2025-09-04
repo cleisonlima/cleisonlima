@@ -1,5 +1,5 @@
 <!-- Top Venom Wave Banner sem fundo de texto -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ol%C3%A1!!&fontSize=40&textBg=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Olá!!&fontSize=40&textBg=false"/>
 
 <div align="center">
   <!-- Typing SVG animado -->
@@ -8,173 +8,85 @@
 
 <hr>
 
-<h2 align="center"> Aplicativos feitos por mim</h2>
+<h2 align="center">📱 Aplicativos Criados por Mim</h2>
 
-## Foto Massa
-- **Descrição**: Aplicativo simples para converter imagens de forma rápida e intuitiva.  
-- **Funcionalidades**:  
-  - Abrir imagens nos formatos `.png`, `.jpg`, `.jpeg`, `.bmp`, `.gif` e `.ico`.  
-  - Converter imagens facilmente para outros formatos.  
-  - Salvar a imagem no formato escolhido.  
-  - Interface simples e amigável.  
-- **Tecnologias**: Python, Tkinter, Pillow (PIL)  
-- **Repositório**: [https://github.com/cleisonlima/fotomassa](https://github.com/cleisonlima/fotomassa)  
+- **Foto Massa** – Conversor de imagens rápido e intuitivo.  
+  Tecnologias: Python, Tkinter, Pillow  
+  [Repositório](https://github.com/cleisonlima/fotomassa)  
 
+- **LinkZin** – Encurtador de URLs prático.  
+  Tecnologias: Python, Tkinter  
+  [Repositório](https://github.com/cleisonlima/LinkZin)  
 
-  ## LinkZin
-- **Descrição**: Aplicativo simples para encurtar URLs de forma rápida e prática.
-- **Funcionalidades**:
-  - Encurtar links utilizando a API do TinyURL.
-  - Copiar o link encurtado para a área de transferência com um clique.
-  - Interface amigável com design moderno.
-- **Tecnologias**: Python, Tkinter
-- **Repositório**: [https://github.com/cleisonlima/LinkZin](https://github.com/cleisonlima/LinkZin)
+- **Senha Peba** – Gerador de senhas seguras e divertidas.  
+  Tecnologias: Python, Tkinter  
+  [Repositório](https://github.com/cleisonlima/Senha_Peba)  
 
-  ## Senha Peba
-- **Descrição**: Gerador de senhas simples, rápido e divertido, ideal para criar senhas seguras sem complicação.
-- **Funcionalidades**:
-  - Gera senhas instantâneas com letras, números e símbolos.
-  - Copiar a senha gerada para a área de transferência com um clique.
-  - Interface divertida e minimalista.
-- **Tecnologias**: Python, Tkinter
-- **Repositório**: [https://github.com/cleisonlima/SenhaPeba](https://github.com/cleisonlima/Senha_Peba)
+- **Bufunfa** – Controle de despesas simples e eficiente.  
+  Tecnologias: Python, Tkinter  
+  [Repositório](https://github.com/cleisonlima/Bufunfa)  
 
-  ## Bufunfa
-- **Descrição**: Aplicativo simples para registrar e controlar suas despesas de forma prática e rápida.
-- **Funcionalidades**:
-  - Adicionar despesas com descrição e valor.
-  - Visualizar o total gasto instantaneamente.
-  - Remover despesas indesejadas com um clique.
-  - Salvar todas as despesas em arquivo TXT para consulta posterior.
-  - Interface moderna, minimalista e elegante.
-- **Tecnologias**: Python, Tkinter
-- **Repositório**: [https://github.com/cleisonlima/Bufunfa](https://github.com/cleisonlima/Bufunfa)
-
-  ## QRretado!
-- **Descrição**: Aplicativo simples para gerar QR Codes a partir de qualquer texto ou link, de forma rápida e prática.
-- **Funcionalidades**:
-  - Gerar QR Code de textos ou links.
-  - Visualizar o QR Code diretamente no aplicativo.
-  - Salvar QR Code em formato `.png` para compartilhar ou guardar.
-- **Tecnologias**: Python
-- **Repositório**: [https://github.com/cleisonlima/qrretado](https://github.com/cleisonlima/qrretado)
-
-
-
-
-<h2 align="center">👨‍💻 Sobre mim</h2>
-
-  Sou Cleison Lima, especialista em Inteligência Artificial, Neurociência, Robótica e Desenvolvimento de Sistemas. <br>
-Minha experiência une ciência, tecnologia e inovação para criar soluções inteligentes, automatizar processos e integrar sistemas complexos. <br>
-Trabalho com modelagem de IA, análise avançada de dados, automação, robótica aplicada e desenvolvimento de sistemas, sempre com foco em inovação, aprendizado e impacto. <br>
-Meu objetivo é transformar ideias em soluções tecnológicas concretas que conectem ciência, educação e indústria, potencializando resultados e experiências.
-</p>
+- **QRretado!** – Geração de QR Codes rápida.  
+  Tecnologias: Python  
+  [Repositório](https://github.com/cleisonlima/qrretado)  
 
 <hr>
 
-## 💡 Tecnologias e Habilidades
+<h2 align="center">👨‍💻 Sobre Mim</h2>
+
+Sou **Cleison Lima**, especialista em **Inteligência Artificial, Neurociência, Robótica e Desenvolvimento de Sistemas**.  
+Minha experiência une ciência, tecnologia e inovação para criar soluções inteligentes, automatizar processos e integrar sistemas complexos.  
+Trabalho com **modelagem de IA, análise avançada de dados, automação, robótica aplicada e desenvolvimento de sistemas**, sempre com foco em inovação, aprendizado e impacto.
+
+<hr>
+
+<h2 align="center">💡 Tecnologias e Habilidades</h2>
 
 ### Linguagens
-| Python | JavaScript |&emsp;&emsp; Java &emsp;&emsp; | C++ | TypeScript |&emsp;&emsp;&emsp; R &emsp;&emsp;&emsp;| MySQL |
-|:------:|:----------:|:----:|:---:|:----------:|:--:|:-----:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/> |
+| Python | JavaScript | Java | C++ | TypeScript | R | SQL |
+|:------:|:----------:|:----:|:---:|:----------:|:-:|:---:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> |
 
----
+### Bibliotecas e Frameworks de IA e Dados
+| NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | TensorFlow | PyTorch |
+|:-----:|:-----:|:----------:|:------:|:------------:|:----------:|:-------:|
+| <img src="https://img.icons8.com/color/48/000000/numpy.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/pandas.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="40"/> | <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="40"/> | <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40"/> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/> |
 
-### Bibliotecas
-| Pandas | NumPy | Matplotlib | Jupyter |
-|:------:|:-----:|:----------:|:-------:|
-| <img src="https://img.icons8.com/color/48/000000/pandas.png" width="40" height="40"/> | <img src="https://img.icons8.com/color/48/000000/numpy.png" width="40" height="40"/> | <img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/> |
-
----
-
-### Frameworks & Frontend
-| React | React Native | Angular | Vite | Bootstrap | HTML5 | CSS3 |
-|:-----:|:------------:|:-------:|:----:|:---------:|:-----:|:----:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/> | <img src="https://vitejs.dev/logo.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/> |
-
----
+### Frontend & Desenvolvimento Web
+| React | React Native | Angular | HTML5 | CSS3 | Bootstrap | Tailwind |
+|:-----:|:------------:|:-------:|:-----:|:----:|:---------:|:-------:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/> | <img src="https://tailwindcss.com/_next/static/media/tailwindcss-logotype.02db9152.svg" width="40"/> |
 
 ### Ferramentas & Versionamento
-| Git &emsp;&emsp;| NodeJS | Docker | Kubernetes | VS Code | Postman | MongoDB |
-|:---:|:------:|:------:|:----------:|:-------:|:-------:|:-------:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/> | <img src="https://img.icons8.com/color/48/000000/postman.png" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/> |
-
----
+| Git | GitHub | VS Code | Docker | Kubernetes | NodeJS | Postman | MongoDB |
+|:---:|:------:|:-------:|:------:|:----------:|:------:|:-------:|:-------:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> | <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> | <img src="https://img.icons8.com/color/48/000000/postman.png" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> |
 
 ### Outros
-| Firebase | AWS | Google Colab | Linux | Terraform |
-|:--------:|:---:|:------------:|:-----:|:---------:|
-| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40"/> | <img src="https://www.svgrepo.com/show/349325/colaboratory.svg" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40"/> |
+| Firebase | AWS | Google Colab | Linux | Terraform | Jupyter |
+|:--------:|:---:|:------------:|:-----:|:---------:|:-------:|
+| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/> | <img src="https://www.svgrepo.com/show/349325/colaboratory.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/> |
 
-<h2 align="center">🏆 Certificações & Destaques</h2>
+<hr>
+
+<h2 align="center">🏆 Formação & Certificações</h2>
 
 - Pós-graduação em Neurociências e Neurotecnologia  
 - Especialização em Desenvolvimento Full Stack  
 - MBA em Gestão e Docência no Ensino Médio e Superior  
-- Graduação em Ciência de Dados
-
-
-<hr>
-
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <a href="https://github.com/cleisonlima">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleisonlima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleisonlima&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
+- Graduação em Ciência de Dados  
 
 <hr>
 
 <h2 align="center">📫 Contato</h2>
 
-🔗 <a href="https://www.linkedin.com/in/cleisonl-it">LinkedIn</a> <br>
-🔗 <a href="https://github.com/cleisonlima">GitHub</a> <br>
-🔗 <a href="https://www.dio.me/users/cleisonl_it">DIO Portfolio</a><br>
-🔗 <a href="https://cleisonlima.github.io/site/">Meu Site</a><br>
-</p>
-
-## <h2 align="center">🌐 Sites Importantes para Desenvolvimento e Dados</h2>
-
-### Hospedagem e Deploy
-- [Netlify](https://app.netlify.com/) – Hospedagem gratuita para sites estáticos e apps JS modernos  
-- [GitHub Pages](https://pages.github.com/) – Hospedagem gratuita diretamente de repositórios GitHub  
-- [Vercel](https://vercel.com/) – Hospedagem e deploy contínuo para projetos JS e frameworks modernos  
-- [Render](https://render.com/) – Hospedagem gratuita para sites estáticos e apps simples  
-- [Surge](https://surge.sh/) – Deploy rápido de sites estáticos via CLI  
-
-### Aprendizado e Competição de Dados
-- [Kaggle](https://www.kaggle.com/) – Competições de Data Science, datasets e notebooks Python/R  
-- [DataCamp](https://www.datacamp.com/) – Cursos online focados em análise de dados e Python/R  
-- [Coursera](https://www.coursera.org/) – Cursos de TI, ciência de dados e desenvolvimento web  
-- [edX](https://www.edx.org/) – Cursos gratuitos e pagos de universidades renomadas  
-
-### Ferramentas e Automação
-- [Ninite](https://ninite.com/) – Instalador automático de softwares para Windows  
-- [Stack Overflow](https://stackoverflow.com/) – Perguntas e respostas de programação  
-- [JSFiddle](https://jsfiddle.net/) – Testar e compartilhar código HTML/CSS/JS online  
-- [CodePen](https://codepen.io/) – Sandbox para front-end e prototipagem rápida  
-- [Replit](https://replit.com/) – Ambiente online para programar em várias linguagens  
-
-### Recursos de Programação e Documentação
-- [MDN Web Docs](https://developer.mozilla.org/) – Documentação oficial de HTML, CSS e JavaScript  
-- [W3Schools](https://www.w3schools.com/) – Tutoriais rápidos de web e programação  
-- [Python.org](https://www.python.org/) – Documentação oficial do Python  
-- [Node.js](https://nodejs.org/) – Site oficial do Node.js  
-
-### Controle de Versionamento e Colaboração
-- [GitHub](https://github.com/) – Repositórios, versionamento e colaboração  
-- [GitLab](https://gitlab.com/) – Alternativa ao GitHub com CI/CD integrado  
-- [Bitbucket](https://bitbucket.org/) – Repositórios privados grátis para pequenas equipes  
+🔗 [LinkedIn](https://www.linkedin.com/in/cleisonl-it)  
+🔗 [GitHub](https://github.com/cleisonlima)  
+🔗 [DIO Portfolio](https://www.dio.me/users/cleisonl_it)  
+🔗 [Meu Site](https://cleisonlima.github.io/site/)  
 
 <hr>
 
 <h2 align="center">⚡ Filosofia</h2>
 
-Com minha experiência em Inteligência Artificial, Neurociência, Robótica e Desenvolvimento de Sistemas, busco transformar desafios complexos em soluções inovadoras e impactantes. <br>
-Acredito no poder da tecnologia para elevar a educação, criar impacto real e construir o futuro que desejamos.
-</p>
-<p align="center">
 "Inteligência Artificial não substitui humanos, mas amplifica nossa capacidade de criar, inovar e transformar o mundo." 🤖💡
-</p>
