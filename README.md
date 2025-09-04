@@ -65,7 +65,7 @@ Trabalho com **modelagem de IA, análise avançada de dados, automação, robót
 ### Outros
 | Firebase | AWS | Google Colab | Linux | Terraform | Jupyter |
 |:--------:|:---:|:------------:|:-----:|:---------:|:-------:|
-| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40"/> | <img src="https://www.svgrepo.com/show/349325/colaboratory.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/> |
+| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> | <img src="https://www.svgrepo.com/show/373458/aws.svg" width="40"/> | <img src="https://www.svgrepo.com/show/330547/googlecolab.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/> |
 
 <hr>
 
