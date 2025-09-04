@@ -75,7 +75,7 @@ Meu objetivo é transformar ideias em soluções tecnológicas concretas que con
 ## 💡 Tecnologias e Habilidades
 
 ### Linguagens
-| Python | JavaScript | Java | C++ | TypeScript | R | MySQL |
+| Python | JavaScript | Java | C++ | TypeScript | R.   | MySQL |
 |:------:|:----------:|:----:|:---:|:----------:|:--:|:-----:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"/> |
 
