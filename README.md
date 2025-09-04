@@ -112,8 +112,8 @@ Meu objetivo é transformar ideias em soluções tecnológicas concretas que con
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" title="Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40" title="Terraform"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" height="40" title="AWS"/>
+  <img src="https://www.svgrepo.com/svg/373810/google-colab" height="40" title="Google Colab"/>
 </div>
-<hr>
 
 <h2 align="center">🏆 Certificações & Destaques</h2>
 
