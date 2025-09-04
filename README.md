@@ -76,35 +76,35 @@ Meu objetivo é transformar ideias em soluções tecnológicas concretas que con
 
 ### Linguagens
 | Python | JavaScript | Java | C++ | TypeScript | R | MySQL |
-|--------|------------|------|-----|------------|---|-------|
+|:------:|:----------:|:----:|:---:|:----------:|:--:|:-----:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="40"/> |
 
 ---
 
 ### Bibliotecas
 | Pandas | NumPy | Matplotlib | Jupyter |
-|--------|-------|------------|---------|
+|:------:|:-----:|:----------:|:-------:|
 | <img src="https://img.icons8.com/color/48/000000/pandas.png" height="40"/> | <img src="https://img.icons8.com/color/48/000000/numpy.png" height="40"/> | <img src="https://img.icons8.com/color/48/000000/matplotlib.png" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="40"/> |
 
 ---
 
 ### Frameworks & Frontend
 | React | React Native | Angular | Vite | Bootstrap | HTML5 | CSS3 |
-|-------|--------------|---------|------|-----------|-------|------|
+|:-----:|:------------:|:-------:|:----:|:---------:|:-----:|:----:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="40"/> | <img src="https://vitejs.dev/logo.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40"/> |
 
 ---
 
 ### Ferramentas & Versionamento
 | Git | NodeJS | Docker | Kubernetes | VS Code | Postman | MongoDB |
-|-----|--------|--------|------------|---------|---------|---------|
+|:---:|:------:|:------:|:----------:|:-------:|:-------:|:-------:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40"/> | <img src="https://img.icons8.com/color/48/000000/postman.png" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="40"/> |
 
 ---
 
 ### Outros
 | Firebase | AWS | Google Colab | Linux | Terraform |
-|----------|-----|--------------|-------|-----------|
+|:--------:|:---:|:------------:|:-----:|:---------:|
 | <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40"/> | <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="40"/> | <img src="https://www.svgrepo.com/show/349325/colaboratory.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="40"/> |
 
 <h2 align="center">🏆 Certificações & Destaques</h2>
