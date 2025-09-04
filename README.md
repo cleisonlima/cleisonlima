@@ -44,7 +44,7 @@ Trabalho com **modelagem de IA, análise avançada de dados, automação, robót
 
 ### Linguagens
 | Python | JavaScript | Java | C++ | TypeScript | R | SQL |
-|:------:|:----------:|:----:|:---:|:----------:|:-:|:---:|
+|:------:|:----------:|:--------:|:-------:|:----------:|:------:|:-------:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> |
 
 ### Bibliotecas e Frameworks de IA e Dados
