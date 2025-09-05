@@ -10,64 +10,75 @@
 
 <h2 align="center">📱 Aplicativos Criados por Mim</h2>
 
-- **Foto Massa** – Conversor de imagens rápido e intuitivo.  
-  Tecnologias: Python, Tkinter, Pillow  
-  [Repositório](https://github.com/cleisonlima/fotomassa)  
-
-- **LinkZin** – Encurtador de URLs prático.  
-  Tecnologias: Python, Tkinter  
-  [Repositório](https://github.com/cleisonlima/LinkZin)  
-
-- **Senha Peba** – Gerador de senhas seguras e divertidas.  
-  Tecnologias: Python, Tkinter  
-  [Repositório](https://github.com/cleisonlima/Senha_Peba)  
-
-- **Bufunfa** – Controle de despesas simples e eficiente.  
-  Tecnologias: Python, Tkinter  
-  [Repositório](https://github.com/cleisonlima/Bufunfa)  
-
-- **QRretado!** – Geração de QR Codes rápida.  
-  Tecnologias: Python  
-  [Repositório](https://github.com/cleisonlima/qrretado)  
+| Aplicativo | Descrição | Tecnologias | Repositório |
+|------------|-----------|------------|-------------|
+| **Foto Massa** | Conversor de imagens rápido e intuitivo | Python, Tkinter, Pillow | [GitHub](https://github.com/cleisonlima/fotomassa) |
+| **LinkZin** | Encurtador de URLs prático | Python, Tkinter | [GitHub](https://github.com/cleisonlima/LinkZin) |
+| **Senha Peba** | Gerador de senhas seguras e divertidas | Python, Tkinter | [GitHub](https://github.com/cleisonlima/Senha_Peba) |
+| **Bufunfa** | Controle de despesas simples e eficiente | Python, Tkinter | [GitHub](https://github.com/cleisonlima/Bufunfa) |
+| **QRretado!** | Geração de QR Codes rápida | Python | [GitHub](https://github.com/cleisonlima/qrretado) |
+ 
 
 <hr>
 
 <h2 align="center">👨‍💻 Sobre Mim</h2>
 
-Sou **Cleison Lima**, especialista em **Inteligência Artificial, Neurociência, Robótica e Desenvolvimento de Sistemas**.  
-Minha experiência une ciência, tecnologia e inovação para criar soluções inteligentes, automatizar processos e integrar sistemas complexos.  
-Trabalho com **modelagem de IA, análise avançada de dados, automação, robótica aplicada e desenvolvimento de sistemas**, sempre com foco em inovação, aprendizado e impacto.
+Sou **Cleison Lima**, especialista em **Inteligência Artificial, Neurociência, Robótica e Desenvolvimento de Sistemas**. Minha experiência une ciência, tecnologia e inovação para criar soluções inteligentes, automatizar processos e integrar sistemas complexos. Trabalho com **modelagem de IA, análise avançada de dados, automação, robótica aplicada e desenvolvimento de sistemas**, sempre com foco em inovação, aprendizado e impacto.
 
 <hr>
 
 <h2 align="center">💡 Tecnologias e Habilidades</h2>
 
-### Linguagens
-| Python | JavaScript | Java | C++ | TypeScript |&nbsp;&nbsp;&nbsp;R&nbsp;&nbsp;&nbsp;| SQL |
-|:------:|:----------:|:--------:|:-------:|:----------:|:------:|:-------:|
+---
+
+## 🖥️ Linguagens
+| Python | JavaScript | Java | C++ | TypeScript | R | SQL |
+|:------:|:----------:|:----:|:---:|:----------:|:--:|:--:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> |
 
-### Bibliotecas e Frameworks de IA e Dados
-| NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | TensorFlow | PyTorch |
-|:-----:|:-----:|:----------:|:------:|:------------:|:----------:|:-------:|
-| <img src="https://img.icons8.com/color/48/000000/numpy.png" width="40"/> | <img src="https://img.icons8.com/color/48/000000/pandas.png" width="40"/> | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW93VjxvjYx8YHtSj75mHuX0q8I8yR38m9k8ZDmED9r1HJ9ZMXYLVpedNp&s=10" width="40"/> | <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" width="40"/> | <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="40"/> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/> |
+---
 
-### Frontend & Desenvolvimento Web
-| React | React Native | Angular | HTML5 | CSS3 | Bootstrap | Tailwind |
-|:-----:|:------------:|:-------:|:-----:|:----:|:---------:|:-------:|
-| <img src="https://www.svgrepo.com/show/374035/reactts.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/> | <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="40"/> |
+## 🌐 Desenvolvimento Web & Frameworks
+| React | Next.js | Node.js | Express.js | Bootstrap |
+|:-----:|:-------:|:-------:|:----------:|:---------:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/> |
 
-### Ferramentas & Versionamento
-| &nbsp;&nbsp;&nbsp;Git&nbsp;&nbsp;&nbsp; | GitHub | VS Code | Docker | Kubernetes | NodeJS | Postman | MongoDB |
-|:---:|:------:|:-------:|:------:|:----------:|:------:|:-------:|:-------:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> | <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40"/> | <img src="https://www.svgrepo.com/show/452129/vs-code.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> | <img src="https://img.icons8.com/color/48/000000/postman.png" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> |
+---
 
-### Outros
-| Firebase | AWS | Google Colab | Linux | Terraform | Jupyter |
-|:--------:|:---:|:------------:|:-----:|:---------:|:-------:|
-| <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/> | <img src="https://www.svgrepo.com/show/373458/aws.svg" width="40"/> | <img src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="40"/> |
+## 📊 Dados & Big Data
+| Pandas | Numpy | Power BI | BigQuery | Apache Spark |
+|:------:|:-----:|:--------:|:--------:|:------------:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/> | <img src="https://www.svgrepo.com/show/375551/bigquery.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40"/> |
 
-<hr>
+---
+
+## 🤖 Inteligência Artificial & Machine Learning
+| TensorFlow | Keras | Scikit-learn | PyTorch |
+|:----------:|:-----:|:------------:|:-------:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/> | <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/> |
+
+---
+
+## ⚡ IA Generativa para Devs
+| ChatGPT | Gemini | Copilot | Blackbox | Claude | DeepSeek |
+|:-------:|:------:|:-------:|:--------:|:------:|:--------:|
+| <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google-gemini-icon.svg" width="40"/> | <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="40"/> | <img src="https://img.icons8.com/color/512/cursor-ai.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/DeepSeek-icon.svg" width="40"/> |
+
+---
+
+## ☁️ Cloud & DevOps
+| AWS | Azure | Firebase | Ansible | Docker | 
+|:---:|:-----:|:--------:|:-------:|:------:| 
+| <img src="https://www.svgrepo.com/show/373458/aws.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> | <img src="https://www.svgrepo.com/show/373595/firebase.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/> | <img src="https://www.svgrepo.com/show/452192/docker.svg" width="40"/> | 
+
+---
+
+## 🛠️ Ferramentas & Colaboração
+| Git | GitHub | Google Colab | Trello | Jira | Notion |
+|:---:|:------:|:-------------:|:-----:|:----:|:------:|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> | <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40"/> | <img src="https://www.svgrepo.com/show/349325/colaboratory.svg" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40"/> |
+
+---
 
 <h2 align="center">🏆 Formação & Certificações</h2>
 
