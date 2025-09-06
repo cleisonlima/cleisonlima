@@ -32,7 +32,7 @@ Sou **Cleison Lima**, especialista em **Inteligência Artificial, Neurociência,
 ---
 
 ## 🖥️ Linguagens
-| Python | JavaScript | Java | C++ | TypeScript | R | SQL |
+| Python | JavaScript | Java | C++ | TypeScript | &emsp;&emsp;&emsp;R&emsp;&emsp;&emsp;| SQL |
 |:------:|:----------:|:----:|:---:|:----------:|:--:|:--:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> |
 
@@ -74,7 +74,7 @@ Sou **Cleison Lima**, especialista em **Inteligência Artificial, Neurociência,
 ---
 
 ## 🛠️ Ferramentas & Colaboração
-| Git | GitHub | Google Colab | Trello | Jira | Notion |
+|&emsp;&emsp;&emsp;Git&emsp;&emsp;&emsp;| GitHub | Google Colab | Trello | Jira | Notion |
 |:---:|:------:|:-------------:|:-----:|:----:|:------:|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> | <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40"/> | <img src="https://www.svgrepo.com/show/349325/colaboratory.svg" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40"/> |
 
