@@ -9,22 +9,26 @@
 <hr>
 
 
+
 <div align="center">
 
-  <!-- Estatísticas do GitHub -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cleisonlima&theme=tokyonight" alt="Cleison Lima GitHub Stats" />
-  
-  <br><br>
-
-  <!-- Gráficos -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cleisonlima&theme=tokyonight" alt="Top Languages by Repo" height="180" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cleisonlima&theme=tokyonight" alt="Top Languages by Commit" height="180" />
+  <!-- 🧠 Detalhes do Perfil -->
+  <h3>🧠 Detalhes do Perfil</h3>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cleisonlima&theme=tokyonight" alt="Detalhes do Perfil" />
 
   <br><br>
 
-  <!-- Estatísticas gerais -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cleisonlima&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cleisonlima&theme=tokyonight&utcOffset=3" alt="Productive Time" height="180" />
+  <!-- 💬 Linguagens Mais Usadas -->
+  <h3>💬 Linguagens Mais Usadas</h3>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cleisonlima&theme=tokyonight" alt="Linguagens por Repositório" height="180" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cleisonlima&theme=tokyonight" alt="Linguagens por Commits" height="180" />
+
+  <br><br>
+
+  <!-- 📊 Estatísticas Gerais -->
+  <h3>📊 Estatísticas Gerais</h3>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cleisonlima&theme=tokyonight" alt="Estatísticas Gerais" height="180" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cleisonlima&theme=tokyonight&utcOffset=3" alt="Horário Mais Produtivo" height="180" />
 
 </div>
 
