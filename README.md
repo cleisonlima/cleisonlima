@@ -8,6 +8,28 @@
 
 <hr>
 
+
+<div align="center">
+
+  <!-- Estatísticas do GitHub -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cleisonlima&theme=tokyonight" alt="Cleison Lima GitHub Stats" />
+  
+  <br><br>
+
+  <!-- Gráficos -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cleisonlima&theme=tokyonight" alt="Top Languages by Repo" height="180" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cleisonlima&theme=tokyonight" alt="Top Languages by Commit" height="180" />
+
+  <br><br>
+
+  <!-- Estatísticas gerais -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cleisonlima&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cleisonlima&theme=tokyonight&utcOffset=3" alt="Productive Time" height="180" />
+
+</div>
+
+
+
 <h2 align="center">📱 Aplicativos Criados por Mim</h2>
 
 | Aplicativo | Descrição | Tecnologias | Repositório |
