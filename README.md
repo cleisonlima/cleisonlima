@@ -109,9 +109,10 @@ Sou **Cleison Lima**, especialista em **Inteligência Artificial, Neurociência,
 <h2 align="center">🏆 Formação & Certificações</h2>
 
 - Pós-graduação em Neurociências e Neurotecnologia  
-- Especialização em Desenvolvimento Full Stack  
-- MBA em Gestão e Docência no Ensino Médio e Superior  
-- Graduação em Ciência de Dados  
+- MBA em Gestão e Docência no Ensino Médio e Superior
+- Especialização em Desenvolvimento Full Stack 
+- Graduação em Ciência de Dados
+- Técnico em Desenvolvimento de Sistemas
 
 <hr>
 
