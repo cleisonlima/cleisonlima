@@ -1,38 +1,29 @@
-<!-- Top Venom Wave Banner sem fundo de texto -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Olá!!&fontSize=40&textBg=false"/>
 
 <div align="center">
-  <!-- Typing SVG animado -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=28&pause=1000&color=2BF7EE&center=true&width=600&lines=Seja+bem-vindo+ao+meu+GitHub!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.vercel.app/api?font=Exo+2&size=28&pause=1000&color=2BF7EE&center=true&width=600&lines=Seja+bem-vindo+ao+meu+GitHub!" alt="Typing SVG"/>
 </div>
 
 <hr>
 
-
-
 <div align="center">
 
-  <!-- 🧠 Detalhes do meu Perfil -->
   <h3>🧠 Detalhes do Perfil</h3>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cleisonlima&theme=tokyonight" alt="Detalhes do Perfil" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cleisonlima&theme=tokyonight" alt="Detalhes do Perfil" />
 
   <br><br>
 
-  <!-- 💬 Linguagens Mais Usadas -->
   <h3>💬 Linguagens Mais Usadas</h3>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cleisonlima&theme=tokyonight" alt="Linguagens por Repositório" height="180" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cleisonlima&theme=tokyonight" alt="Linguagens por Commits" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cleisonlima&theme=tokyonight" alt="Linguagens por Repositório" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cleisonlima&theme=tokyonight" alt="Linguagens por Commits" height="180" />
 
   <br><br>
 
-  <!-- 📊 Estatísticas Gerais -->
   <h3>📊 Estatísticas Gerais</h3>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cleisonlima&theme=tokyonight" alt="Estatísticas Gerais" height="180" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cleisonlima&theme=tokyonight&utcOffset=3" alt="Horário Mais Produtivo" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cleisonlima&theme=tokyonight" alt="Estatísticas Gerais" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cleisonlima&theme=tokyonight&utcOffset=-3" alt="Horário Mais Produtivo" height="180" />
 
 </div>
-
-
 
 <h2 align="center">📱 Aplicativos Criados por Mim</h2>
 
@@ -55,56 +46,73 @@ Sou **Cleison Lima**, especialista em **Inteligência Artificial, Neurociência,
 
 <h2 align="center">💡 Tecnologias e Habilidades</h2>
 
----
+<h3 align="center">🖥️ Linguagens</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+</p>
 
-## 🖥️ Linguagens
-| Python | JavaScript | Java | C++ | TypeScript | &emsp;&emsp;&emsp;R&emsp;&emsp;&emsp;| SQL |
-|:------:|:----------:|:----:|:---:|:----------:|:--:|:--:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/> |
+<h3 align="center">🌐 Desenvolvimento Web & Frameworks</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+</p>
 
----
+<h3 align="center">📊 Dados & Big Data</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+</p>
 
-## 🌐 Desenvolvimento Web & Frameworks
-| React | Next.js | Node.js | Express.js | Bootstrap |
-|:-----:|:-------:|:-------:|:----------:|:---------:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/> |
+<h3 align="center">🤖 Inteligência Artificial & Machine Learning</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+</p>
 
----
+<h3 align="center">⚡ IA Generativa para Devs</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-75A99F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-1C1C1C?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Copilot"/>
+  Blackbox |
+  <img src="https://img.shields.io/badge/Claude-C29074?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  | DeepSeek
+</p>
 
-## 📊 Dados & Big Data
-| Pandas | Numpy | Power BI | BigQuery | Apache Spark |
-|:------:|:-----:|:--------:|:--------:|:------------:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/> | <img src="https://www.svgrepo.com/show/375551/bigquery.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40"/> |
+<h3 align="center">☁️ Cloud & DevOps</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
 
----
+<h3 align="center">🛠️ Ferramentas & Colaboração</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
+</p>
 
-## 🤖 Inteligência Artificial & Machine Learning
-| TensorFlow | Keras | Scikit-learn | PyTorch |
-|:----------:|:-----:|:------------:|:-------:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="40"/> | <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40"/> |
-
----
-
-## ⚡ IA Generativa para Devs
-| ChatGPT | Gemini | Copilot | Blackbox | Claude | DeepSeek |
-|:-------:|:------:|:-------:|:--------:|:------:|:--------:|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google-gemini-icon.svg" width="40"/> | <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" width="40"/> | <img src="https://img.icons8.com/color/512/cursor-ai.png" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/DeepSeek-icon.svg" width="40"/> |
-
----
-
-## ☁️ Cloud & DevOps
-| AWS | Azure | Firebase | Ansible | Docker | 
-|:---:|:-----:|:--------:|:-------:|:------:| 
-| <img src="https://www.svgrepo.com/show/373458/aws.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40"/> | <img src="https://www.svgrepo.com/show/373595/firebase.svg" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40"/> | <img src="https://www.svgrepo.com/show/452192/docker.svg" width="40"/> | 
-
----
-
-## 🛠️ Ferramentas & Colaboração
-|&emsp;&emsp;&emsp;Git&emsp;&emsp;&emsp;| GitHub | Google Colab | Trello | Jira | Notion |
-|:---:|:------:|:-------------:|:-----:|:----:|:------:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> | <img src="https://www.svgrepo.com/show/475654/github-color.svg" width="40"/> | <img src="https://www.svgrepo.com/show/349325/colaboratory.svg" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" width="40"/> | <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" width="40"/> |
-
----
+<hr>
 
 <h2 align="center">🏆 Formação & Certificações</h2>
 
