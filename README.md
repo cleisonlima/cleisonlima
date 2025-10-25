@@ -2,10 +2,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1F1C2C,100:928DAB&text=Ola,%20eu%20sou%20Cleison%20Lima&fontSize=40&fontAlignY=40&fontColor=F8F8FF"/>
 
 
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=600&lines=🚀+Desenvolvedor+Fullstack+e+Professor+de+TI;🤖+Apaixonado+por+Inteligência+Artificial;💡+Inovando+com+Ciência+e+Tecnologia;🧠+Criando+mentes+digitais" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=🚀+Engenheiro+de+Software+e+Mentor+em+Tecnologia;🤖+Apaixonado+por+Inovação+e+Inteligência+Artificial;💡+Transformando+Educação+através+da+Tecnologia;🧠+Inspirando+Novas+Gerações+de+Criadores+Digitais;🌍+Unindo+Ciência,+Educação+e+Impacto+Social;🔥+Formando+Mentes+que+Mudam+o+Futuro" alt="Typing SVG" />
 </div>
+
 
 ---
 
