@@ -79,7 +79,7 @@ Unifico **ciência, tecnologia e educação** para criar soluções que unem **h
 
 - 🎓 Graduação em **Ciência de Dados**  
 - 🧠 Pós em **Neurociências e Neurotecnologia**  
-- 💼 MBA em **Gestão e Docência no Ensino Técnico e Superior**  
+- 💼 MBA em **Gestão e Docência no Ensino, Médio, Técnico e Superior**  
 - 💻 Pós em **Desenvolvimento Fullstack**  
 - ⚙️ Técnico em **Desenvolvimento de Sistemas**
 
