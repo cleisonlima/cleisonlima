@@ -1,11 +1,11 @@
-<!-- 🔥 BANNER -->
+<!-- 🔥 BANNER TOP -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=0,2,2,5,30&text=Cleison%20Lima&desc=Professor%20%7C%20SoftSoftware%20 Engineer%20Developer%20%7C%20Data%20Science&fontSize=50&fontAlignY=35&descAlignY=55&animation=fadeIn&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=0,2,5,30&text=Cleison%20Lima&desc=Professor%20%7C%20Software%20Engineer%20%7C%20Fullstack%20Developer%20%7C%20Data%20Scientist&fontSize=50&fontAlignY=35&descAlignY=55&animation=fadeIn&fontColor=FFFFFF"/>
 </p>
 
-<!-- 💬 TYPING EFFECT -->
+<!-- ⚡ TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+código;Professor+de+TI+no+SENAI;Fullstack+Developer;Data+Science"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Transforming+ideas+into+code;Software+Engineering+Professor+at+SENAI;Fullstack+Developer;Data+Science+Enthusiast;Building+real+world+projects"/>
 </p>
 
 ---
