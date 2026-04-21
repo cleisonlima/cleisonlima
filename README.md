@@ -1,25 +1,36 @@
 <!-- 🔥 BANNER TOP -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=0,2,5,30&text=Cleison%20Lima&desc=Professor%20%7C%20Software%20Engineer%20%7C%20Fullstack%20Developer%20%7C%20Data%20Scientist&fontSize=50&fontAlignY=35&descAlignY=55&animation=fadeIn&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=0,2,5,30&text=Cleison%20Lima&desc=Software%20Engineering%20Professor%20%7C%20Software%20Engineer%20%7C%20Fullstack%20Developer%20%7C%20Data%20Science&fontSize=50&fontAlignY=35&descAlignY=55&animation=fadeIn&fontColor=FFFFFF"/>
 </p>
 
 <!-- ⚡ TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Transforming+ideas+into+code;Software+Engineering+Professor+at+SENAI;Fullstack+Developer;Data+Science+Enthusiast;Building+real+world+projects"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Transforming+ideas+into+code;Software+Engineering+Professor+at+SENAI;Fullstack+Developer;Data+Science+Enthusiast"/>
 </p>
 
 ---
 
-## 🎓 Formação Acadêmica
+## 👨‍💻 About Me
 
-- 🎓 Graduação em Ciência de Dados  
-- 🎓 Pós-graduação em Desenvolvimento Fullstack  
-- 🎓 MBA em Gestão e Docência no Ensino Médio Técnico e Superior  
-- 🎓 Especialização em Neurociência, Neuroengenharia e Neurorrobótica 
+I am a **Software Engineering Professor at SENAI** and a **Fullstack Developer** with a background in **Data Science**.
+
+I focus on:
+- Teaching software development  
+- Building practical projects  
+- Applying data analysis concepts  
 
 ---
 
-## 🧠 Tecnologias
+## 🎓 Academic Background
+
+- 🎓 Bachelor's Degree in Data Science  
+- 🎓 Postgraduate Degree in Fullstack Development  
+- 🎓 MBA in Management and Teaching for Technical and Higher Education  
+- 🎓 Specialization in Neuroscience, Neuroengineering, and Neurorobotics  
+
+---
+
+## 🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mysql,git,github,bootstrap" />
@@ -27,7 +38,20 @@
 
 ---
 
-## 📊 Estatísticas
+## 🏷️ Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql"/>
+</p>
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=cleisonlima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
@@ -36,7 +60,7 @@
 
 ---
 
-## 📈 Linguagens mais usadas
+## 📈 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleisonlima&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -44,26 +68,20 @@
 
 ---
 
-## 🧩 Projetos em destaque
-
-🔹 Em breve...
-
----
-
-## 🌐 Contato
+## 🌐 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="mailto:youremail@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🐍 Contribuições
+## 🐍 Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -71,8 +89,8 @@
 
 ---
 
-## ⚡ Frase
+## ⚡ Quote
 
 <p align="center">
-  "Ensinar tecnologia é formar o futuro." 🚀
+  "Teaching technology is shaping the future." 🚀
 </p>
