@@ -1,6 +1,6 @@
 <!-- 🔥 BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=0,2,2,5,30&text=Cleison%20Lima&desc=Professor%20%7C%20Fullstack%20Developer%20%7C%20Data%20Science&fontSize=50&fontAlignY=35&descAlignY=55&animation=fadeIn&fontColor=FFFFFF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=0,2,2,5,30&text=Cleison%20Lima&desc=Professor%20%7C%20SoftSoftware%20 Engineer%20Developer%20%7C%20Data%20Science&fontSize=50&fontAlignY=35&descAlignY=55&animation=fadeIn&fontColor=FFFFFF"/>
 </p>
 
 <!-- 💬 TYPING EFFECT -->
