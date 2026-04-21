@@ -1,108 +1,79 @@
-<!-- Banner Futurista -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1F1C2C,100:928DAB&text=Ola,%20eu%20sou%20Cleison%20Lima&fontSize=40&fontAlignY=40&fontColor=F8F8FF"/>
+<!-- BANNER TOP -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=0,2,2,5,30&text=Cleison%20Lima&desc=Professor%20%7C%20Fullstack%20Developer%20%7C%20Data%20Science&fontSize=50&fontAlignY=35&descAlignY=55&animation=fadeIn&fontColor=FFFFFF"/>
+</p>
 
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=🚀+Engenheiro+de+Software+e+Mentor+em+Tecnologia;🤖+Apaixonado+por+Inovação+e+Inteligência+Artificial;💡+Transformando+Educação+através+da+Tecnologia;🧠+Inspirando+Novas+Gerações+de+Criadores+Digitais;🌍+Unindo+Ciência,+Educação+e+Impacto+Social;🔥+Formando+Mentes+que+Mudam+o+Futuro" alt="Typing SVG" />
-</div>
-
-
----
-
-## 🧬 Perfil Analítico
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cleisonlima&theme=tokyonight" alt="Detalhes do Perfil" />
-</div>
+<!-- FRASE ANIMADA -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Transformando+ideias+em+código;Professor+de+TI+no+SENAI;Apaixonado+por+tecnologia+e+educação;Fullstack+Developer+%7C+Data+Science"/>
+</p>
 
 ---
 
-## 🧠 Tecnologias de IA e Desenvolvimento
+## 🚀 Sobre mim
 
-<div align="center">
-  
-### 🤖 Inteligência Artificial & Machine Learning
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-
-### 💻 Linguagens e Frameworks
-<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-### ☁️ Cloud & Dados
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/BigQuery-0059D6?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-
-</div>
+💻 Professor e Desenvolvedor apaixonado por tecnologia  
+📊 Formação em Ciência de Dados  
+🎓 Pós-graduação em Desenvolvimento Fullstack  
+📚 Experiência com ensino técnico (SENAI/SESI)  
+🔥 Foco em projetos práticos e inovação  
 
 ---
 
-## ⚙️ Estatísticas e Produtividade
+## 🧠 Tecnologias
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cleisonlima&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cleisonlima&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cleisonlima&theme=tokyonight&utcOffset=-3" height="180"/>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mysql,git,github,bootstrap" />
+</p>
 
 ---
 
-## 🧩 Aplicativos Criados
+## 📊 Estatísticas
 
-| 🧠 Aplicativo | 💬 Descrição | 🧰 Tecnologias | 🔗 Repositório |
-|---------------|--------------|----------------|----------------|
-| **Foto Massa** | Conversor de imagens rápido e intuitivo | Python, Tkinter, Pillow | [GitHub](https://github.com/cleisonlima/fotomassa) |
-| **LinkZin** | Encurtador de URLs prático | Python, Tkinter | [GitHub](https://github.com/cleisonlima/LinkZin) |
-| **Senha Peba** | Gerador de senhas seguras e divertidas | Python, Tkinter | [GitHub](https://github.com/cleisonlima/Senha_Peba) |
-| **Bufunfa** | Controle de despesas simples e eficiente | Python, Tkinter | [GitHub](https://github.com/cleisonlima/Bufunfa) |
-| **QRretado!** | Geração de QR Codes rápida | Python | [GitHub](https://github.com/cleisonlima/qrretado) |
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USER&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 📈 Linguagens mais usadas
 
-Sou **Cleison Lima**, docente e desenvolvedor apaixonado por **Inteligência Artificial, Neurociência, Robótica e Desenvolvimento de Sistemas**.  
-Unifico **ciência, tecnologia e educação** para criar soluções que unem **humanos e máquinas** de forma inteligente e ética.
-
-> 💡 “IA não substitui professores — ela amplia nossa capacidade de ensinar e transformar vidas.”
-
----
-
-## 🎓 Formação
-
-- 🎓 Graduação em **Ciência de Dados**  
-- 🧠 Pós em **Neurociências e Neurotecnologia**  
-- 💼 MBA em **Gestão e Docência no Ensino Médio, Técnico e Superior**  
-- 💻 Pós em **Desenvolvimento Fullstack**  
-- ⚙️ Técnico em **Desenvolvimento de Sistemas**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🧩 Projetos em destaque
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleisonl-it)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cleisonlima)  
-[![DIO](https://img.shields.io/badge/DIO.me-000000?style=for-the-badge&logo=dio&logoColor=white)](https://www.dio.me/users/cleisonl_it)  
-[![Portfólio](https://img.shields.io/badge/🌐%20Meu%20Site-1F1C2C?style=for-the-badge&logo=githubpages&logoColor=white)](https://cleisonlima.github.io/site/)  
-
-</div>
+🚀 Em breve... (ou adicione seus projetos principais aqui)
 
 ---
 
-## ⚡ Filosofia
+## 🌐 Conecte-se comigo
 
-> “A inteligência artificial não substitui humanos, mas amplia nossa capacidade de criar, inovar e transformar o mundo.”  
-> — *Cleison Lima* 🤖💡
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1F1C2C,100:928DAB&section=footer"/>
+## 🐍 Contribuições (efeito visual TOP)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## ⚡ Frase final
+
+<p align="center">
+  "Ensinar tecnologia é formar o futuro." 🚀
+</p>
