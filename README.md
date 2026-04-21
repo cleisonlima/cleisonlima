@@ -10,13 +10,12 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🎓 Formação Acadêmica
 
-💻 Professor de Desenvolvimento de Sistemas  
-📊 Tecnólogo em Ciência de Dados  
-🎓 Pós-graduação em Desenvolvimento Fullstack  
-🏫 SENAI / SESI  
-🔥 Foco em projetos práticos e ensino de tecnologia  
+- 🎓 Graduação em Ciência de Dados  
+- 🎓 Pós-graduação em Desenvolvimento Fullstack  
+- 🎓 MBA em Gestão e Docência no Ensino Médio Técnico e Superior  
+- 🎓 Especialização em Neurociência, Neuroengenharia e Neurorrobótica 
 
 ---
 
@@ -47,7 +46,7 @@
 
 ## 🧩 Projetos em destaque
 
-🔹 Em construção... (adicione seus melhores projetos aqui)
+🔹 Em breve...
 
 ---
 
