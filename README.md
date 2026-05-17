@@ -144,7 +144,7 @@ focus:
 
 <img height="180em" src="https://streak-stats.demolab.com?user=cleisonlima&theme=tokyonight"/>
 
-</p>>
+</p>
 
 ---
 
