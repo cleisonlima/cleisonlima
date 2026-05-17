@@ -134,8 +134,6 @@ focus:
 
 ---
 
----
-
 # 📊 GITHUB ANALYTICS
 
 <p align="center">
