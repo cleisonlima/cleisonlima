@@ -9,12 +9,7 @@
 
 <!-- ⚡ TYPING EFFECT -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=Software+Engineering+Professor+at+SENAI;Java+%7C+Spring+Boot+%7C+Linux+%7C+Docker;Data+Science+%7C+Machine+Learning;Backend+Engineer+%7C+Cloud+Computing;Neuroscience+%7C+Technology+Education;Transforming+Knowledge+into+Innovation+🚀"/>
-</p>
-
-<!-- MATRIX GIF -->
-<p align="center">
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=Software+Engineering+Professor+at+SENAI;Java+%7C+Spring+Boot+%7C+Linux+%7C+Docker;Data+Science+%7C+Machine+Learning;Backend+Engineer+%7C+Cloud+Computing;Neuroscience+%7C+Technology+Education;Transforming+Knowledge+into+Innovation"/>
 </p>
 
 ---
@@ -153,14 +148,6 @@ focus:
 
 ---
 
-# 📈 MOST USED LANGUAGES
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleisonlima&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 📉 CONTRIBUTION GRAPH
 
 <p align="center">
@@ -188,22 +175,6 @@ focus:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cleisonlima&theme=tokyonight"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cleisonlima&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🚀 FEATURED PROJECTS
-
-<p align="center">
-
-<a href="#">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=cleisonlima&repo=REPO1&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="#">
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=cleisonlima&repo=REPO2&theme=tokyonight&hide_border=true"/>
-</a>
 
 </p>
 
