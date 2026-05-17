@@ -1,96 +1,277 @@
-<!-- 🔥 BANNER TOP -->
+<!-- ========================================================= -->
+<!-- 🔥 CLEISON LIMA - ELITE TECH EDUCATOR PROFILE -->
+<!-- ========================================================= -->
+
+<!-- 🌌 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=0,2,5,30&text=Cleison%20Lima&desc=Software%20Engineering%20Professor%20%7C%20Software%20Engineer%20%7C%20Fullstack%20Developer%20%7C%20Data%20Science&fontSize=50&fontAlignY=35&descAlignY=55&animation=fadeIn&fontColor=FFFFFF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=330&text=Cleison%20Lima&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,5,30&fontColor=ffffff&desc=Software%20Engineering%20Professor%20|%20Fullstack%20Developer%20|%20Linux%20|%20Data%20Science&descAlignY=57&animation=fadeIn&fontSize=56"/>
 </p>
 
 <!-- ⚡ TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=Transforming+ideas+into+code;Software+Engineering+Professor+at+SENAI;Fullstack+Developer;Data+Science+Enthusiast"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=1000&lines=Software+Engineering+Professor+at+SENAI;Java+%7C+Spring+Boot+%7C+Linux+%7C+Docker;Data+Science+%7C+Machine+Learning;Backend+Engineer+%7C+Cloud+Computing;Neuroscience+%7C+Technology+Education;Transforming+Knowledge+into+Innovation+🚀"/>
+</p>
+
+<!-- MATRIX GIF -->
+<p align="center">
+<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="100%"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 ABOUT ME
 
-I am a **Software Engineering Professor at SENAI** and a **Fullstack Developer** with a background in **Data Science**.
 
-I focus on:
-- Teaching software development  
-- Building practical projects  
-- Applying data analysis concepts  
+```yaml
+name: Cleison Lima
+role: Software Engineering Professor
+company: SENAI
+focus:
+  - Software Engineering
+  - Fullstack Development
+  - Backend Engineering
+  - Linux Infrastructure
+  - Cloud Computing
+  - Data Science
+  - Artificial Intelligence
+  - Neuroscience Applied to Education
+```
+
+💻 Software Engineering Professor focused on practical and modern education.  
+🚀 Fullstack Developer passionate about backend systems and scalable architectures.  
+🐧 Linux enthusiast working with infrastructure, containers and cloud technologies.  
+📊 Data Science and Artificial Intelligence enthusiast.  
+🧠 Researcher in neuroscience, cognition and educational technology.  
+📚 Dedicated to transforming complex concepts into practical learning experiences.  
 
 ---
 
-## 🎓 Academic Background
+# 🎓 EDUCATION & ACADEMIC BACKGROUND
 
 - 🎓 Bachelor's Degree in Data Science  
 - 🎓 Postgraduate Degree in Fullstack Development  
 - 🎓 MBA in Management and Teaching for Technical and Higher Education  
-- 🎓 Specialization in Neuroscience, Neuroengineering, and Neurorobotics  
+- 🎓 Specialization in Neuroscience, Neuroengineering and Neurorobotics  
 
 ---
 
-## 🧠 Tech Stack
+# 🚀 SOFTWARE ENGINEERING STACK
+
+## ☕ BACKEND DEVELOPMENT
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mysql,git,github,bootstrap" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python"/>
 </p>
 
 ---
 
-## 🏷️ Technologies
+## 🎨 FRONTEND DEVELOPMENT
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java"/>
-  <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+## 🗄️ DATABASES
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cleisonlima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=cleisonlima&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase"/>
 </p>
 
 ---
 
-## 📈 Most Used Languages
+# 🐧 LINUX & DEVOPS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleisonlima&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Ubuntu-000?style=for-the-badge&logo=ubuntu"/>
+<img src="https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnubash"/>
+<img src="https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Kubernetes-000?style=for-the-badge&logo=kubernetes"/>
+<img src="https://img.shields.io/badge/NGINX-000?style=for-the-badge&logo=nginx"/>
+<img src="https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws"/>
+<img src="https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoftazure"/>
+
 </p>
 
 ---
 
-## 🌐 Contact
+# 📊 DATA SCIENCE & AI
 
 <p align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:youremail@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+
+<img src="https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/Jupyter-000?style=for-the-badge&logo=jupyter"/>
+<img src="https://img.shields.io/badge/Google%20Colab-000?style=for-the-badge&logo=googlecolab"/>
+<img src="https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Tableau-000?style=for-the-badge&logo=tableau"/>
+
 </p>
 
 ---
 
-## 🐍 Contributions
+# 🧠 NEUROSCIENCE & EDUCATION
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://img.shields.io/badge/Neuroscience-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neuroeducation-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Neurorobotics-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cognitive%20Science-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Educational%20Technology-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Teaching-000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Research-000?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## ⚡ Quote
+# 🛠️ TOOLS & ENVIRONMENT
 
 <p align="center">
-  "Teaching technology is shaping the future." 🚀
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,eclipse,figma"/>
+</p>
+
+---
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cleisonlima&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=cleisonlima&theme=tokyonight"/>
+
+</p>>
+
+---
+
+# 📈 MOST USED LANGUAGES
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleisonlima&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📉 CONTRIBUTION GRAPH
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cleisonlima&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🌌 ADVANCED METRICS
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cleisonlima&theme=tokyonight"/>
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cleisonlima&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cleisonlima&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cleisonlima&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cleisonlima&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<p align="center">
+
+<a href="#">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=cleisonlima&repo=REPO1&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="#">
+<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=cleisonlima&repo=REPO2&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<p align="center">
+
+<a href="https://github.com/cleisonlima">
+<img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:youremail@email.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# ⚡ RANDOM DEV QUOTE
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+</p>
+
+---
+
+# 💻 TERMINAL
+
+```bash
+> booting system...
+
+██████████████████████████ 100%
+
+✔ Software Engineering Loaded
+✔ Java & Spring Boot Loaded
+✔ Linux Infrastructure Loaded
+✔ Cloud Computing Loaded
+✔ Data Science Loaded
+✔ Artificial Intelligence Loaded
+✔ Neuroscience Loaded
+✔ Educational Technology Loaded
+
+SYSTEM READY 🚀
+```
+
+---
+
+# ☕ FINAL MESSAGE
+
+<p align="center">
+"Technology, neuroscience and education together can transform lives." 🚀
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=gradient&customColorList=0,2,5,30"/>
 </p>
