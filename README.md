@@ -136,13 +136,15 @@ focus:
 
 # 📊 GITHUB ANALYTICS
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=cleisonlima&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=cleisonlima&theme=tokyonight"/>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=cleisonlima&theme=tokyonight"/>
+<br/>
 
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cleisonlima&theme=tokyonight"/>
+
+</div>
 
 ---
 
