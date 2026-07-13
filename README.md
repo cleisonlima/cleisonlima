@@ -1,98 +1,99 @@
 <!-- ========================================================= -->
-<!-- 🚀 CLEISON LIMA - DEVELOPER & AI ENGINEER -->
+<!-- 🚀 CLEISON LIMA - DESENVOLVEDOR & ENGENHEIRO DE IA -->
 <!-- ========================================================= -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Cleison%20Lima&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,5,30&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Cleison%20Lima&fontAlign=50&fontAlignY=35&color=gradient&customColorList=0,2,5,30&fontColor=ffffff&desc=Engenheiro%20de%20IA%20%7C%20Desenvolvedor%20Full%20Stack&descAlignY=60"/>
 </p>
 
 ---
 
-## 👨‍💻 ABOUT ME
+## 👨‍💻 SOBRE MIM
 
-**AI Engineer | Full Stack Developer | Data Scientist**
+**Engenheiro de IA | Desenvolvedor Full Stack | Cientista de Dados**
 
-🎓 Graduated in Data Science (UNICID) | Specialized in Generative AI & Machine Learning  
-🤖 Proficient in Python, Java, JavaScript, React, and Cloud Technologies  
-📊 Expertise: Data Science, Machine Learning, Web Development, and LLM Applications  
-🏢 Professor at SENAI Pernambuco - Teaching AI & Digital Transformation  
-📍 Based in Pernambuco, Brasil 🇧🇷
+🎓 Formado em Ciência de Dados (UNICID) | Especialista em IA Generativa e Machine Learning  
+🤖 Proficiente em Python, Java, JavaScript, React e Tecnologias em Nuvem  
+📊 Expertise: Ciência de Dados, Machine Learning, Desenvolvimento Web e Aplicações com LLM  
+🏢 Professor na SENAI Pernambuco - Ensinando IA e Transformação Digital  
+📍 Baseado em Pernambuco, Brasil 🇧🇷
 
 ---
 
-## 🚀 KEY SKILLS
+## 🚀 PRINCIPAIS HABILIDADES
 
-### 🤖 AI & Machine Learning
+### 🤖 IA & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### 💻 Backend Development
+### 💻 Desenvolvimento Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### 🎨 Frontend Development
+### 🎨 Desenvolvimento Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML_CSS-E34C26?style=flat-square&logo=html5&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Bancos de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-### ☁️ Cloud & DevOps
+### ☁️ Nuvem & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### 🤖 AI Tools & LLMs
+### 🤖 Ferramentas IA & LLMs
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-000?style=flat-square&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000?style=flat-square&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 ---
 
-## 🎯 FEATURED PROJECTS
+## 🎯 PROJETOS DESTAQUE
 
 ### 📊 **[Portfólio Web](https://github.com/cleisonlima/meu-site)**
-Portfolio website showcasing my professional work and projects.
-- **Tech Stack:** HTML5, CSS3, Responsive Design
-- **Live:** [cleisonlima.github.io/meu-site](https://cleisonlima.github.io/meu-site/)
+Website de portfólio apresentando meus trabalhos profissionais e projetos.
+- **Tech Stack:** HTML5, CSS3, Design Responsivo
+- **Link:** [cleisonlima.github.io/meu-site](https://cleisonlima.github.io/meu-site/)
 
-### 🤖 **[Machine Learning Algorithms](https://github.com/cleisonlima/MachineLearning)**
-Comprehensive collection of ML algorithms and projects with Jupyter Notebooks.
+### 🤖 **[Machine Learning - Algoritmos](https://github.com/cleisonlima/MachineLearning)**
+Coleção abrangente de algoritmos de ML e projetos com Jupyter Notebooks.
 - **Tech Stack:** Python, Scikit-Learn, TensorFlow, Pandas, Matplotlib
-- **Contains:** Classification, Regression, Clustering, Feature Engineering
+- **Contém:** Classificação, Regressão, Clustering, Feature Engineering
 
-### ⚛️ **[React.js Projects](https://github.com/cleisonlima/React.js)**
-Modern React applications with Vite, hooks, and best practices.
+### ⚛️ **[Projetos React.js](https://github.com/cleisonlima/React.js)**
+Aplicações modernas em React com Vite e melhores práticas.
 - **Tech Stack:** React 18+, Vite, JavaScript/JSX, Tailwind CSS
-- **Features:** Components, Custom Hooks, State Management, Routing
+- **Recursos:** Componentes, Custom Hooks, Gerenciamento de Estado, Roteamento
 
-### 📈 **[Data Science Course Projects](https://github.com/cleisonlima/Faculdade_Ciencia_de_Dados)**
-Academic projects covering full data science pipeline.
+### 📈 **[Projetos de Ciência de Dados](https://github.com/cleisonlima/Faculdade_Ciencia_de_Dados)**
+Projetos acadêmicos cobrindo todo o pipeline de ciência de dados.
 - **Tech Stack:** R, Python, SQL, Power BI
-- **Modules:** Data Mining, Statistical Analysis, Algorithms, Databases
+- **Módulos:** Mineração de Dados, Análise Estatística, Algoritmos, Bancos de Dados
 
-### 📊 **[R Statistical Analysis](https://github.com/cleisonlima/R_Atividades_e_Projetos)**
-Statistical analysis scripts and data visualization with R.
+### 📊 **[Análise Estatística em R](https://github.com/cleisonlima/R_Atividades_e_Projetos)**
+Scripts de análise estatística e visualização de dados com R.
 - **Tech Stack:** R, ggplot2, Tidyverse
-- **Topics:** Descriptive Statistics, Distributions, Data Visualization
+- **Tópicos:** Estatística Descritiva, Distribuições, Visualização de Dados
 
-### 🔐 **[Cybersecurity - Ransomware Challenge](https://github.com/cleisonlima/cibersecurity-desafio-ransomware-cl)**
-Educational project on encryption, decryption, and cybersecurity concepts.
-- **Tech Stack:** Python, Cryptography, Security
-- **Purpose:** Educational - Understanding encryption mechanisms
+### 🔐 **[Cibersegurança - Desafio Ransomware](https://github.com/cleisonlima/cibersecurity-desafio-ransomware-cl)**
+Projeto educacional sobre criptografia, descriptografia e conceitos de cibersegurança.
+- **Tech Stack:** Python, Cryptography, Segurança
+- **Propósito:** Educacional - Compreender mecanismos de criptografia
 
 ---
 
-## 📊 GITHUB ANALYTICS
+## 📊 ANÁLISE DO GITHUB
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleisonlima&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -105,17 +106,17 @@ Educational project on encryption, decryption, and cybersecurity concepts.
 
 ---
 
-## 🏆 CERTIFICATIONS & ACHIEVEMENTS
+## 🏆 CERTIFICAÇÕES & CONQUISTAS
 
-- 🎖️ **Grand Prix SENAI 2026** - Evaluator & Mentor
+- 🎖️ **Grand Prix SENAI 2026** - Avaliador & Mentor
 - 🏅 **AWS Cloud Practitioner** - Amazon Web Services
 - 📜 **Scrum Foundation Certified** - Scrum Alliance
-- 🎓 **GenAI & Data Specialist** - Bradesco
-- 🏫 **Professor at SENAI Pernambuco** - IT & AI Education
+- 🎓 **Especialista em GenAI & Dados** - Bradesco
+- 🏫 **Professor na SENAI Pernambuco** - Educação em TI & IA
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 🌐 CONECTE-SE COMIGO
 
 <p align="center">
 <a href="https://github.com/cleisonlima" target="_blank">
@@ -131,10 +132,28 @@ Educational project on encryption, decryption, and cybersecurity concepts.
 
 ---
 
-## 💡 MISSION
+## 💡 MISSÃO
 
-Building scalable, intelligent solutions that transform businesses and empower people through AI and cutting-edge technology. 🚀
+Construir soluções escaláveis e inteligentes que transformem negócios e capacitem pessoas através de IA e tecnologia de ponta. 🚀
+
+---
+
+## 📚 REPOSITÓRIOS PRINCIPAIS
+
+| Repositório | Descrição | Linguagem |
+|---|---|---|
+| [meu-site](https://github.com/cleisonlima/meu-site) | Portfólio Web | HTML/CSS |
+| [MachineLearning](https://github.com/cleisonlima/MachineLearning) | Algoritmos e Projetos ML | Python |
+| [React.js](https://github.com/cleisonlima/React.js) | Aplicações React modernas | JavaScript/React |
+| [Faculdade_Ciencia_de_Dados](https://github.com/cleisonlima/Faculdade_Ciencia_de_Dados) | Projetos de Ciência de Dados | R/Python/SQL |
+| [R_Atividades_e_Projetos](https://github.com/cleisonlima/R_Atividades_e_Projetos) | Análise Estatística | R |
+
+---
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,2,5,30"/>
+</p>
+
+<p align="center">
+  ⭐ Se você gostou dos meus projetos, considere dar uma estrela! ⭐
 </p>
