@@ -287,18 +287,37 @@ Meu objetivo é aproximar **tecnologia, prática profissional e educação**, cr
 
 <p align="center">
   <img
-    src="https://github-readme-stats-fast.vercel.app/api?username=cleisonlima&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=cleisonlima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
     height="170"
+    alt="Estatísticas do GitHub de cleisonlima"
   />
 
   <img
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cleisonlima&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleisonlima&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
+    alt="Linguagens mais usadas por cleisonlima"
   />
-
-  <img src="./output/github-contribution-grid-snake.svg" width="95%" />
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=cleisonlima&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Streak de contribuições de cleisonlima"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=cleisonlima&theme=tokyonight&no-frame=true&column=7"
+    width="95%"
+    alt="Troféus do GitHub de cleisonlima"
+  />
+</p>
+
+<p align="center">
+  <img src="./output/github-contribution-grid-snake.svg" width="95%" alt="Snake de contribuições" />
+</p>
 
 ---
 
