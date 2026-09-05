@@ -307,12 +307,13 @@ Meu objetivo é aproximar **tecnologia, prática profissional e educação**, cr
   />
 </p>
 
-<p align="center">
+
+ <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=cleisonlima&theme=tokyonight&no-frame=true&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=cleisonlima&theme=tokyonight&no-frame=true&column=7&margin-w=10"
     width="95%"
     alt="Troféus do GitHub de cleisonlima"
-  />
+ 
 </p>
 
 <p align="center">
