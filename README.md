@@ -286,12 +286,15 @@ Meu objetivo é aproximar **tecnologia, prática profissional e educação**, cr
 # 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cleisonlima&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleisonlima&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=cleisonlima&show_icons=true&theme=tokyonight"
+    height="170"
+  />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cleisonlima&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cleisonlima&layout=compact&theme=tokyonight"
+    height="170"
+  />
 </p>
 
 ---
