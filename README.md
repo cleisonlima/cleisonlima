@@ -289,7 +289,7 @@ Meu objetivo é aproximar **tecnologia, prática profissional e educação**, cr
     height="170"
     alt="Estatísticas do GitHub de cleisonlima"
   />
-
+<p align="center">
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cleisonlima&layout=compact&theme=tokyonight&hide_border=true"
     height="170"
