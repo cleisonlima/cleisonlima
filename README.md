@@ -1,4 +1,43 @@
+<p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=cleisonlima&show_icons=true&hide_border=true&bg_color=0d0221&title_color=ff00ff&icon_color=00fff9&text_color=39ff14&border_color=ff00ff&count_private=true"
+    height="170"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cleisonlima&layout=compact&hide_border=true&bg_color=0d0221&title_color=ff00ff&text_color=39ff14&border_color=ff00ff"
+    height="170"
+    alt="Linguagens mais usadas"
+  />
+</p>
 
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=cleisonlima&hide_border=true&background=0D0221&ring=FF00FF&fire=00FFF9&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888"
+    height="170"
+    alt="Streak de contribuições"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=cleisonlima&theme=react-dark&hide_border=true&bg_color=0d0221&color=39ff14&line=ff00ff&point=00fff9"
+    width="95%"
+    alt="Gráfico de atividade"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=cleisonlima&no-frame=true&column=7&theme=algolia&margin-w=10"
+    width="95%"
+    alt="Troféus do GitHub"
+  />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cleisonlima&color=ff00ff&style=for-the-badge&label=VISUALIZAÇÕES" alt="Contador de visitas" />
+</p>
 
 <!-- ========================================================= -->
 
