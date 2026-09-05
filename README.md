@@ -295,7 +295,10 @@ Meu objetivo é aproximar **tecnologia, prática profissional e educação**, cr
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cleisonlima&layout=compact&theme=tokyonight"
     height="170"
   />
+
+  <img src="./output/github-contribution-grid-snake.svg" width="95%" />
 </p>
+
 
 ---
 
