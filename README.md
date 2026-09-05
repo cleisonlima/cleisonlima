@@ -76,7 +76,7 @@ Tenho interesse em construir soluções que conectem **IA, dados, software e edu
 <td width="40%" align="center">
 
 <img
-src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif"
+src="https://github.com/cleisonlima/cleisonlima/blob/main/artificial%20intelligence%20futurism%20GIF.gif"
 width="100%"
 alt="Robô representando Inteligência Artificial"
 />
