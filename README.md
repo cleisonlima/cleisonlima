@@ -2,6 +2,8 @@
 
 
 
+![GitHub Stats](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcleisonlima&color=7aa2f7&labelColor=1a1b26)
+
 <!-- ========================================================= -->
 
 <!-- 🚀 CLEISON LIMA — IA • DADOS • ENGENHARIA DE SOFTWARE -->
