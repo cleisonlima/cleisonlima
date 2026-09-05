@@ -6,10 +6,8 @@
   />
 </p>
 
-<h1 align="center">👨‍💻 Cleison Lima</h1>
-
 <p align="center">
-  <strong>Inteligência Artificial • Ciência de Dados • Engenharia de Software</strong>
+  <strong style="font-size:18px;">Eu transformo dados e modelos de IA em sistemas que rodam em produção — não só em notebook.</strong>
 </p>
 
 <p align="center">
@@ -22,446 +20,262 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/cleisonlima">
-    <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
-    />
-  </a>
-
-  <a href="https://www.linkedin.com/in/cleisonl-it/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
+  <a href="https://github.com/cleisonlima"><img src="https://img.shields.io/badge/GitHub-cleisonlima-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/cleisonl-it/"><img src="https://img.shields.io/badge/LinkedIn-cleisonl--it-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://komarev.com/ghpvc/?username=cleisonlima&label=Visualiza%C3%A7%C3%B5es&color=6d5ce8&style=flat-square" alt="Visualizações do perfil"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=cleisonlima&label=Visualizações%20do%20perfil&color=0e75b6&style=flat"
-    alt="Visualizações do perfil"
-  />
+  <img src="https://img.shields.io/badge/40-Reposit%C3%B3rios%20p%C3%BAblicos-1B2140?style=for-the-badge&labelColor=6d5ce8" alt="40 Repositórios"/>
+  <img src="https://img.shields.io/badge/9-Certifica%C3%A7%C3%B5es-1B2140?style=for-the-badge&labelColor=29B6F6" alt="9 Certificações"/>
+  <img src="https://img.shields.io/badge/2-Cr%C3%A9ditos%20Grand%20Prix%20SENAI-1B2140?style=for-the-badge&labelColor=F5A623" alt="Grand Prix SENAI"/>
+  <img src="https://img.shields.io/badge/Professor-SENAI%20Pernambuco-1B2140?style=for-the-badge&labelColor=22D3C8" alt="Professor SENAI"/>
 </p>
 
----
-
-# 🚀 Sobre mim
-
-<table>
-<tr>
-
-<td width="60%" valign="top">
-
-Sou profissional da área de **Tecnologia da Informação**, com atuação em **Inteligência Artificial, Ciência de Dados, Engenharia de Software e Desenvolvimento de Sistemas**.
-
-Também atuo como **Professor no SENAI Pernambuco**, trabalhando com formação profissional em tecnologia e preparando estudantes para os desafios do mercado digital.
-
-Tenho interesse em construir soluções que conectem **IA, dados, software e educação**.
+<p align="center">
+  <a href="#sobre-mim">Sobre</a> ·
+  <a href="#como-eu-penso-um-projeto-de-ia">Metodologia</a> ·
+  <a href="#habilidades">Habilidades</a> ·
+  <a href="#projetos-em-destaque">Projetos</a> ·
+  <a href="#trajetória">Trajetória</a> ·
+  <a href="#métricas-do-github">Métricas</a> ·
+  <a href="#vamos-conversar">Contato</a>
+</p>
 
 <br>
 
-```text
-🤖 Inteligência Artificial
-📊 Ciência de Dados
-💻 Engenharia de Software
-🌐 Desenvolvimento Full Stack
-🗄️ Bancos de Dados
-☁️ Cloud & DevOps
-🎓 Educação em Tecnologia
-```
+## Sobre mim
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+Atuo na fronteira entre **Inteligência Artificial, Ciência de Dados e Engenharia de Software** — construindo desde modelos e agentes até a infraestrutura que os coloca em produção de forma confiável.
+
+Também sou **Professor no SENAI Pernambuco**, formando profissionais para os desafios reais do mercado de tecnologia. Isso molda como eu trabalho: prefiro explicar o "porquê" por trás de cada escolha técnica a apenas entregar código que funciona.
+
+O que me move é construir pontes entre **IA, dados, software e educação** — e treinar o hábito de aprender continuamente, porque nesta área o que é estado da arte hoje é baseline em um ano.
 
 </td>
-
 <td width="40%" align="center">
 
-<img
-src="https://github.com/cleisonlima/cleisonlima/blob/main/artificial%20intelligence%20futurism%20GIF.gif"
-width="100%"
-alt="Robô representando Inteligência Artificial"
-/>
+<img src="https://github.com/cleisonlima/cleisonlima/blob/main/artificial%20intelligence%20futurism%20GIF.gif" width="100%" alt="Robô representando Inteligência Artificial"/>
 
 </td>
-
 </tr>
 </table>
 
----
+<br>
 
-# 🧠 Áreas de atuação
+## Como eu penso um projeto de IA
 
-## 🤖 Inteligência Artificial
+A maior parte do trabalho em IA não está no modelo — está em tudo ao redor dele. É assim que estruturo um projeto, do dado bruto ao valor de negócio:
 
-**IA Generativa • LLMs • Agentes Inteligentes • Prompt Engineering • RAG • Machine Learning • Automação com IA • Aplicações Multimodais • IA Local com Ollama**
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
----
+**① Coleta & Preparação**
+<sub>dado limpo, validado, versionado</sub>
 
-## 📊 Ciência de Dados
+</td>
+<td align="center">→</td>
+<td align="center" width="25%">
 
-**Ciência de Dados • Análise de Dados • ETL • Machine Learning • SQL • PostgreSQL • MongoDB • Power BI • Python • Pandas • Scikit-Learn**
+**② Desenvolvimento & Validação**
+<sub>acurácia, viés, segurança</sub>
+
+</td>
+<td align="center">→</td>
+<td align="center" width="25%">
 
----
+**③ Deploy**
+<sub>containers, APIs, infraestrutura</sub>
 
-## 💻 Engenharia de Software
+</td>
+<td align="center">→</td>
+<td align="center" width="25%">
 
-**Desenvolvimento Full Stack • APIs REST • Arquitetura de Sistemas • Java • Spring Boot • Node.js • React • TypeScript • JavaScript • Git • GitHub**
+**④ Monitoramento & Retreino**
+<sub>data drift, evolução contínua</sub>
 
----
+</td>
+</tr>
+</table>
 
-# 🔭 Foco atual
+> Comece pequeno, automatize o que dói, e meça impacto no negócio — não apenas métricas de papel.
 
-* 🤖 Evoluindo o **Cleison IA**, meu assistente multimodal
-* 🦙 Explorando modelos locais com **Ollama**
-* 🧠 Estudando **LLMs, RAG e Agentes Inteligentes**
-* 📊 Aprofundando estudos em **Machine Learning e Ciência de Dados**
-* 💻 Desenvolvendo aplicações com **React, TypeScript, Node.js e Java**
-* ☁️ Explorando **Cloud, Docker e DevOps**
-* 🎓 Preparando novas turmas e materiais como **Professor no SENAI Pernambuco**
-* 🌱 Explorando projetos Open Source relacionados a **IA e Dados**
+<br>
 
----
+## Habilidades
 
-# 🛠️ Tecnologias
+Em vez de logos de ferramentas, aqui vai o nível real de profundidade em cada frente — e onde eu aplico isso na prática.
 
-## 🤖 IA & Data Science
+<details open>
+<summary><strong>🤖 Inteligência Artificial</strong></summary>
+<br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=python,r,pytorch,tensorflow,opencv"
-      alt="IA e Data Science"
-    />
-  </a>
-</p>
+| Habilidade | Proficiência | Onde aplico |
+|---|---|---|
+| LLMs & Prompt Engineering | `▰▰▰▰▰▰▰▰▰▰` 100% | Agentes, automação e assistentes multimodais |
+| RAG (Retrieval-Augmented Generation) | `▰▰▰▰▰▰▰▰▱▱` 80% | Chatbots sobre bases de conhecimento próprias |
+| Machine Learning | `▰▰▰▰▰▰▰▰▱▱` 80% | Modelos preditivos e classificação |
+| Agentes Inteligentes | `▰▰▰▰▰▰▰▰▱▱` 80% | Automação de tarefas e tomada de decisão |
+| IA Local (Ollama, GPT-OSS) | `▰▰▰▰▰▰▰▰▱▱` 80% | Modelos rodando on-premise, sem depender de API externa |
+| MLOps | `▰▰▰▰▰▰▱▱▱▱` 60% | Levar modelo do notebook para produção com monitoramento |
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"
-    alt="Pandas"
-  />
+</details>
 
-<img
- src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"
- alt="Scikit-Learn"
-/>
+<details>
+<summary><strong>📊 Ciência de Dados</strong></summary>
+<br>
 
-<img
- src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"
- alt="Matplotlib"
-/>
+| Habilidade | Proficiência | Onde aplico |
+|---|---|---|
+| Python (Pandas, Scikit-Learn) | `▰▰▰▰▰▰▰▰▰▰` 100% | Análise, modelagem e pipelines de dados |
+| SQL & Modelagem de Dados | `▰▰▰▰▰▰▰▰▰▰` 100% | PostgreSQL, MongoDB |
+| ETL & Engenharia de Dados | `▰▰▰▰▰▰▰▰▱▱` 80% | Preparação e versionamento de dados |
+| Visualização & BI | `▰▰▰▰▰▰▰▰▱▱` 80% | Power BI, Matplotlib |
+| Estatística Aplicada | `▰▰▰▰▰▰▱▱▱▱` 60% | R, análise exploratória |
 
-</p>
+</details>
 
----
+<details>
+<summary><strong>💻 Engenharia de Software</strong></summary>
+<br>
 
-## 💻 Backend
+| Habilidade | Proficiência | Onde aplico |
+|---|---|---|
+| Backend (Java/Spring, Node.js) | `▰▰▰▰▰▰▰▰▱▱` 80% | APIs REST e arquitetura de sistemas |
+| Frontend (React, TypeScript) | `▰▰▰▰▰▰▰▰▱▱` 80% | Interfaces para produtos de IA |
+| Arquitetura de Sistemas | `▰▰▰▰▰▰▱▱▱▱` 60% | Design de soluções full stack |
+| Cloud & DevOps (AWS, Docker) | `▰▰▰▰▰▰▱▱▱▱` 60% | Deploy e infraestrutura de aplicações |
+| Git & Versionamento | `▰▰▰▰▰▰▰▰▰▰` 100% | Fluxo de trabalho colaborativo |
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=java,spring,nodejs,express,fastapi"
-      alt="Backend"
-    />
-  </a>
-</p>
+</details>
 
----
+<br>
 
-## 🎨 Frontend
+## Projetos em destaque
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite"
-      alt="Frontend"
-    />
-  </a>
-</p>
+| Projeto | O que faz | Stack | Link |
+|---|---|---|---|
+| 🏭 **SmartFactoryAI** | Plataforma de inteligência industrial com IA para manutenção preditiva | Python · FastAPI · PostgreSQL · React · Power BI | [Ver →](https://github.com/cleisonlima/SmartFactoryAI) |
+| 🏭 **Assistente Indústria IA** | Assistente de IA para Indústria 4.0 com RAG para consulta de documentos técnicos | Python · FastAPI · Streamlit · LangChain · RAG | [Ver →](https://github.com/cleisonlima/assistente-industria-ia) |
+| 🤖 **Cleison IA** | Assistente multimodal: voz, imagem, câmera, automação de computador e memória contextual | React · TypeScript · Node.js · Gemini API | [Ver →](https://github.com/cleisonlima/cleison-ia) |
+| 📊 **AI Business Intelligence Platform** | Plataforma de BI que integra análise de dados, Machine Learning e IA para previsões e insights de negócio | Python · Streamlit · Machine Learning | [Ver →](https://github.com/cleisonlima/AI-Business-Intelligence-Platform) |
+| 🎓 **NeuroClass AI** | Plataforma de gestão acadêmica com IA para análise de risco de alunos e recomendações personalizadas | JavaScript · IA aplicada à educação | [Ver →](https://github.com/cleisonlima/neuroclass-ai) |
+| 🦙 **Cleison AI — Ollama + GPT-OSS** | Agente de IA com GPT-OSS 20B rodando localmente ou via Colab, com memória de conversa | Python · Ollama · GPT-OSS | [Ver →](https://github.com/cleisonlima/Cleison_AI_Ollama_GPT) |
+| 📈 **Painel Executivo de Vendas** | Dashboard estratégico de vendas, custos e desempenho logístico com modelagem Star Schema | Power BI · DAX · Power Query | [Ver →](https://github.com/cleisonlima/Painel_executivo_de_vendas) |
+| 🏦 **Engenharia de Prompts — CX Bancário** | Prompt de análise de dados e Customer Experience para o setor bancário: sentimentos, temas e problemas recorrentes | Prompt Engineering · IA aplicada | [Ver →](https://github.com/cleisonlima/Engenharia_de_prompts) |
 
----
+<details>
+<summary><strong>Ver outros projetos notáveis (32 repositórios adicionais)</strong></summary>
+<br>
 
-## 🗄️ Bancos de Dados
+| Projeto | O que faz | Stack |
+|---|---|---|
+| **industrial-powerbi-dashboard** | Monitoramento de produção industrial, máquinas CNC e consumo de energia | Power BI |
+| **E-Commerce Analytics** | EDA, dashboards interativos e KPIs de negócio para e-commerce | Python · Streamlit |
+| **sistema-analise-dados-python-streamlit** | Sistema de análise de dados interativo | Python · Streamlit |
+| **Automacao_Dados_Python** | Automação de ETL, limpeza e padronização de dados de vendas | Python · Pandas · Openpyxl |
+| **Previsão de Demanda para E-commerce** | ML para previsão de demanda e otimização de estoque | Jupyter Notebook |
+| **aula_springboot** | API REST com arquitetura em camadas | Java · Spring Boot |
+| **portifolio_web** / **meu-site** | Portfólio profissional pessoal | HTML · CSS · Bootstrap |
+| **R-DataScience-Classification** | Modelos de classificação em Ciência de Dados | R |
+| **Ciencia_de_Dados_DIO_IFOOD** | Desafios do Bootcamp DIO + iFood | Python |
+| **python-tkinter-app** | Interfaces gráficas, automação e integração com APIs | Python · Tkinter |
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite"
-      alt="Bancos de Dados"
-    />
-  </a>
-</p>
+<p align="right"><a href="https://github.com/cleisonlima?tab=repositories">Ver todos os 40 repositórios →</a></p>
 
----
+</details>
 
-## ☁️ Cloud, DevOps & Ferramentas
+<br>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=aws,docker,git,github,vscode,linux"
-      alt="Cloud, DevOps e Ferramentas"
-    />
-  </a>
-</p>
+## Foco atual
 
----
+- Evoluindo o **SmartFactoryAI** e o **Assistente Indústria IA** — IA aplicada à Indústria 4.0 com RAG e manutenção preditiva
+- Explorando modelos locais com **Ollama**
+- Aprofundando **LLMs, RAG e Agentes Inteligentes**
+- Estudando **MLOps** — do treino ao monitoramento em produção
+- Preparando novas turmas e materiais como **Professor no SENAI Pernambuco**
 
-## 🧠 Ferramentas de IA
+<br>
 
-<p align="center">
+## Trajetória
 
-<img
-src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"
-alt="OpenAI"
-/>
+**🏆 Professor no SENAI Pernambuco**, com atuação também como **Mentor e Avaliador no Grand Prix SENAI 2026** — reconhecimento direto pela banca da instituição pela qualidade da formação que entrego em sala.
 
-<img
-src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"
-alt="Google Gemini"
-/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img
-src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"
-alt="Ollama"
-/>
+**🎓 Formação**
 
-</p>
+- Tecnólogo em **Ciência de Dados** — UNICID
+- Pós-graduação em **Engenharia de Software** — FIAP · dez/2025
+- Técnico em **Desenvolvimento de Software**
+- Pós-graduação em **Full Stack**
+- MBA em **Gestão e Docência**
+- Pós-graduação em **Neurociências**
+- Especialização em **IA e Cidades Inteligentes**
 
----
+</td>
+<td width="50%" valign="top">
 
-# 🚀 Projetos em destaque
+**🏅 Certificações recentes**
 
-## 🤖 Cleison IA
+- Bootcamp Bradesco — **GenAI & Dados** · DIO · jan/2026
+- Metodologias, Tecnologias Digitais e IA · MEC · abr/2026
+- Formação de Professores em Neuroeducação · MEC · jan/2026
+- Grand Prix SENAI 2026 — **Mentor** · mai/2026
+- Grand Prix SENAI 2026 — **Avaliador** · mai/2026
+- 10ª Jornada Pedagógica de Ed. Profissional · SENAI PE · jul/2026
+- Scrum Foundation · Certiprof · dez/2025
+- AWS Cloud Practitioner Essentials · jun/2022
 
-**Assistente inteligente multimodal para produtividade e automação.**
+</td>
+</tr>
+</table>
 
-Projeto que combina Inteligência Artificial, interação por voz, análise de imagens, câmera, captura de tela, automação do computador, memória contextual e interação multimodal.
+<br>
 
-**Stack:**
-
-`React` `TypeScript` `Vite` `Node.js` `Express` `Gemini API` `Web Speech API` `RobotJS`
-
-🔗 [**Ver projeto**](https://github.com/cleisonlima/Cleison_IA)
-
----
-
-## 🦙 Cleison AI — Ollama + GPT-OSS
-
-Agente inteligente desenvolvido em **Python**, utilizando **Ollama** para executar modelos de linguagem localmente.
-
-**Stack:**
-
-`Python` `Ollama` `GPT-OSS` `Requests` `Google Colab`
-
-🔗 [**Ver projeto**](https://github.com/cleisonlima/Cleison_AI_Ollama_GPT)
-
----
-
-## 🤖 Machine Learning
-
-Coleção de estudos, algoritmos e projetos relacionados a **Machine Learning**.
-
-**Tecnologias:**
-
-`Python` `Pandas` `Scikit-Learn` `TensorFlow` `Matplotlib`
-
-🔗 [**Ver projeto**](https://github.com/cleisonlima/MachineLearning)
-
----
-
-## ⚛️ Projetos React
-
-Projetos e aplicações desenvolvidos utilizando **React** e tecnologias modernas de frontend.
-
-**Tecnologias:**
-
-`React` `JavaScript` `Vite` `JSX`
-
-🔗 [**Ver projeto**](https://github.com/cleisonlima/React.js)
-
----
-
-## 📊 Ciência de Dados
-
-Projetos acadêmicos e estudos relacionados ao ciclo de vida da **Ciência de Dados**.
-
-**Tecnologias:**
-
-`Python` `R` `SQL` `Power BI`
-
-🔗 [**Ver projeto**](https://github.com/cleisonlima/Faculdade_Ciencia_de_Dados)
-
----
-
-## 📈 Análise Estatística
-
-Projetos de análise estatística e visualização de dados utilizando **R**.
-
-**Tecnologias:**
-
-`R` `ggplot2` `Tidyverse`
-
-🔗 [**Ver projeto**](https://github.com/cleisonlima/R_Atividades_e_Projetos)
-
----
-
-# 🎓 Formação & Certificações
-
-## 🎓 Formação
-
-* 🎓 Tecnólogo em **Ciência de Dados — UNICID**
-* 🎓 Técnico em **Desenvolvimento de Software**
-* 🎓 Pós-graduação em **Full Stack**
-* 🎓 MBA em **Gestão e Docência**
-* 🎓 Pós-graduação em **Neurociências**
-* 🎓 Especialização em **Inteligência Artificial e Cidades Inteligentes**
-
-## 🏅 Certificações & Experiências
-
-* ☁️ **AWS Cloud Practitioner**
-* 🏅 **Scrum Foundation**
-* 🏆 **Mentor/Avaliador — Grand Prix SENAI 2026**
-* 🎓 **Professor — SENAI Pernambuco**
-
----
-
-# 👨‍🏫 Educação e Tecnologia
-
-Como professor, trabalho com formação profissional em áreas como:
-
-```text
-💻 Desenvolvimento de Sistemas
-🤖 Inteligência Artificial
-📊 Ciência de Dados
-🌐 Desenvolvimento Web
-🗄️ Banco de Dados
-☁️ Computação em Nuvem
-🔧 Engenharia de Software
-🎮 Desenvolvimento de Jogos
-```
-
-Meu objetivo é aproximar **tecnologia, prática profissional e educação**, criando projetos que possam ser utilizados tanto no aprendizado quanto em aplicações reais.
-
----
-
-# 📊 GitHub Stats
-
-
+## Métricas do GitHub
 
 <div align="center">
 
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api?username=cleisonlima&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Stats"
-  />
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=cleisonlima&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cleisonlima&layout=donut&langs_count=5&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-  <img
-    height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=cleisonlima&layout=donut&langs_count=5&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
+<br>
+
+<img src="https://streak-stats.demolab.com/?user=cleisonlima&theme=tokyonight&hide_border=true&border_radius=12" height="180" alt="GitHub Streak"/>
 
 </div>
 
----
+<br>
 
-# 🔥 GitHub Streak
+## Missão
 
-<div align="center">
+> Transformar problemas em soluções inteligentes usando dados, software e Inteligência Artificial.
 
+**IA + Dados + Software + Educação** — essa combinação é o que eu uso para construir tecnologia mais útil, acessível e sustentável no tempo.
+
+<br>
+
+## Vamos conversar
+
+<p align="center">
+  <a href="https://github.com/cleisonlima"><img src="https://img.shields.io/badge/GitHub-cleisonlima-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/cleisonl-it/"><img src="https://img.shields.io/badge/LinkedIn-cleisonl--it-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=cleisonlima&theme=tokyonight&hide_border=true&border_radius=12"
-    height="180"
-    alt="GitHub Streak"
+    src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,2,5,30"
+    width="100%"
+    alt="Footer"
   />
 </p>
 
----
-
-# 🌐 Conecte-se comigo
-
-<p align="center">
-
-<a href="https://github.com/cleisonlima">
-  <img
-    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/cleisonl-it/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-</p>
-
----
-
-# 🎯 Minha missão
-
-> **Transformar problemas em soluções inteligentes utilizando dados, software e Inteligência Artificial.**
-
-Meu objetivo é desenvolver soluções que unam:
-
-<p align="center">
-
-### 🤖 IA + 📊 Dados + 💻 Software + 🎓 Educação
-
-</p>
-
-para criar tecnologias **mais inteligentes, úteis e acessíveis**.
-
----
-
-# ⭐ Principais repositórios
-
-| Repositório                       | Descrição                | Tecnologia            |
-| --------------------------------- | ------------------------ | --------------------- |
-| 🤖 **Cleison_IA**                 | Assistente IA multimodal | React / Node / Gemini |
-| 🦙 **Cleison_AI_Ollama_GPT**      | Agente IA local          | Python / Ollama       |
-| 🤖 **MachineLearning**            | Machine Learning         | Python                |
-| ⚛️ **React.js**                   | Projetos React           | React / Vite          |
-| 📊 **Faculdade_Ciencia_de_Dados** | Ciência de Dados         | Python / R / SQL      |
-| 📈 **R_Atividades_e_Projetos**    | Análise estatística      | R                     |
-
----
-
-# 💡 Filosofia
-
-<div align="center">
-
-### "Tecnologia não é apenas código."
-
-### "É a capacidade de transformar ideias em soluções."
-
-</div>
-
----
-
-<p align="center">
-
-<img
-src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=0,2,5,30"
-width="100%"
-alt="Footer"
-/>
-
-</p>
-
-<p align="center">
-
-⭐ <strong>Se algum projeto foi útil para você, considere deixar uma estrela!</strong> ⭐
-
-</p>
-
-<p align="center">
-
-<strong>Obrigado pela visita! 🚀</strong>
-
-</p>
+<p align="center"><strong>Obrigado pela visita! Se algum projeto foi útil, deixe uma estrela ⭐</strong></p>
